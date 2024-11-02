@@ -1,0 +1,6141 @@
+[
+    {
+        "name": {
+            "common": "South Georgia",
+            "official": "South Georgia and the South Sandwich Islands",
+            "nativeName": {
+                "eng": {
+                    "official": "South Georgia and the South Sandwich Islands",
+                    "common": "South Georgia"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "South Georgian South Sandwich Islander",
+                "m": "South Georgian South Sandwich Islander"
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Grenada",
+            "official": "Grenada",
+            "nativeName": {
+                "eng": {
+                    "official": "Grenada",
+                    "common": "Grenada"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Grenadian",
+                "m": "Grenadian"
+            },
+            "fra": {
+                "f": "Grenadienne",
+                "m": "Grenadien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Switzerland",
+            "official": "Swiss Confederation",
+            "nativeName": {
+                "fra": {
+                    "official": "Confédération suisse",
+                    "common": "Suisse"
+                },
+                "gsw": {
+                    "official": "Schweizerische Eidgenossenschaft",
+                    "common": "Schweiz"
+                },
+                "ita": {
+                    "official": "Confederazione Svizzera",
+                    "common": "Svizzera"
+                },
+                "roh": {
+                    "official": "Confederaziun svizra",
+                    "common": "Svizra"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Swiss",
+                "m": "Swiss"
+            },
+            "fra": {
+                "f": "Suisse",
+                "m": "Suisse"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Sierra Leone",
+            "official": "Republic of Sierra Leone",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Sierra Leone",
+                    "common": "Sierra Leone"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Sierra Leonean",
+                "m": "Sierra Leonean"
+            },
+            "fra": {
+                "f": "Sierra-leonaise",
+                "m": "Sierra-leonais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Hungary",
+            "official": "Hungary",
+            "nativeName": {
+                "hun": {
+                    "official": "Magyarország",
+                    "common": "Magyarország"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Hungarian",
+                "m": "Hungarian"
+            },
+            "fra": {
+                "f": "Hongroise",
+                "m": "Hongrois"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Taiwan",
+            "official": "Republic of China (Taiwan)",
+            "nativeName": {
+                "zho": {
+                    "official": "中華民國",
+                    "common": "台灣"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Taiwanese",
+                "m": "Taiwanese"
+            },
+            "fra": {
+                "f": "Taïwanaise",
+                "m": "Taïwanais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Wallis and Futuna",
+            "official": "Territory of the Wallis and Futuna Islands",
+            "nativeName": {
+                "fra": {
+                    "official": "Territoire des îles Wallis et Futuna",
+                    "common": "Wallis et Futuna"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Wallis and Futuna Islander",
+                "m": "Wallis and Futuna Islander"
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Barbados",
+            "official": "Barbados",
+            "nativeName": {
+                "eng": {
+                    "official": "Barbados",
+                    "common": "Barbados"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Barbadian",
+                "m": "Barbadian"
+            },
+            "fra": {
+                "f": "Barbadienne",
+                "m": "Barbadien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Pitcairn Islands",
+            "official": "Pitcairn Group of Islands",
+            "nativeName": {
+                "eng": {
+                    "official": "Pitcairn Group of Islands",
+                    "common": "Pitcairn Islands"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Pitcairn Islander",
+                "m": "Pitcairn Islander"
+            },
+            "fra": {
+                "f": "Pitcairnaise",
+                "m": "Pitcairnais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Ivory Coast",
+            "official": "Republic of Côte d'Ivoire",
+            "nativeName": {
+                "fra": {
+                    "official": "République de Côte d'Ivoire",
+                    "common": "Côte d'Ivoire"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Ivorian",
+                "m": "Ivorian"
+            },
+            "fra": {
+                "f": "Ivoirienne",
+                "m": "Ivoirien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Tunisia",
+            "official": "Tunisian Republic",
+            "nativeName": {
+                "ara": {
+                    "official": "الجمهورية التونسية",
+                    "common": "تونس"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Tunisian",
+                "m": "Tunisian"
+            },
+            "fra": {
+                "f": "Tunisienne",
+                "m": "Tunisien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Italy",
+            "official": "Italian Republic",
+            "nativeName": {
+                "ita": {
+                    "official": "Repubblica italiana",
+                    "common": "Italia"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Italian",
+                "m": "Italian"
+            },
+            "fra": {
+                "f": "Italienne",
+                "m": "Italien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Benin",
+            "official": "Republic of Benin",
+            "nativeName": {
+                "fra": {
+                    "official": "République du Bénin",
+                    "common": "Bénin"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Beninese",
+                "m": "Beninese"
+            },
+            "fra": {
+                "f": "Béninoise",
+                "m": "Béninois"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Indonesia",
+            "official": "Republic of Indonesia",
+            "nativeName": {
+                "ind": {
+                    "official": "Republik Indonesia",
+                    "common": "Indonesia"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Indonesian",
+                "m": "Indonesian"
+            },
+            "fra": {
+                "f": "Indonésienne",
+                "m": "Indonésien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Cape Verde",
+            "official": "Republic of Cabo Verde",
+            "nativeName": {
+                "por": {
+                    "official": "República de Cabo Verde",
+                    "common": "Cabo Verde"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Cape Verdian",
+                "m": "Cape Verdian"
+            },
+            "fra": {
+                "f": "Cap-verdienne",
+                "m": "Cap-verdien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Saint Kitts and Nevis",
+            "official": "Federation of Saint Christopher and Nevis",
+            "nativeName": {
+                "eng": {
+                    "official": "Federation of Saint Christopher and Nevis",
+                    "common": "Saint Kitts and Nevis"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Kittitian or Nevisian",
+                "m": "Kittitian or Nevisian"
+            },
+            "fra": {
+                "f": "Kittitienne-et-nevicienne",
+                "m": "Kittitien-et-nevicien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Laos",
+            "official": "Lao People's Democratic Republic",
+            "nativeName": {
+                "lao": {
+                    "official": "ສາທາລະນະ ຊາທິປະໄຕ ຄົນລາວ ຂອງ",
+                    "common": "ສປປລາວ"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Laotian",
+                "m": "Laotian"
+            },
+            "fra": {
+                "f": "Laotienne",
+                "m": "Laotien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Caribbean Netherlands",
+            "official": "Bonaire, Sint Eustatius and Saba",
+            "nativeName": {
+                "nld": {
+                    "official": "Bonaire, Sint Eustatius en Saba",
+                    "common": "Caribisch Nederland"
+                },
+                "pap": {
+                    "official": "Boneiru, Sint Eustatius y Saba",
+                    "common": "Boneiru, Sint Eustatius y Saba"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Dutch",
+                "m": "Dutch"
+            },
+            "fra": {
+                "f": "Néerlandaise",
+                "m": "Néerlandais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Uganda",
+            "official": "Republic of Uganda",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Uganda",
+                    "common": "Uganda"
+                },
+                "swa": {
+                    "official": "Republic of Uganda",
+                    "common": "Uganda"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Ugandan",
+                "m": "Ugandan"
+            },
+            "fra": {
+                "f": "Ougandaise",
+                "m": "Ougandais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Andorra",
+            "official": "Principality of Andorra",
+            "nativeName": {
+                "cat": {
+                    "official": "Principat d'Andorra",
+                    "common": "Andorra"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Andorran",
+                "m": "Andorran"
+            },
+            "fra": {
+                "f": "Andorrane",
+                "m": "Andorran"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Burundi",
+            "official": "Republic of Burundi",
+            "nativeName": {
+                "fra": {
+                    "official": "République du Burundi",
+                    "common": "Burundi"
+                },
+                "run": {
+                    "official": "Republika y'Uburundi ",
+                    "common": "Uburundi"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Burundian",
+                "m": "Burundian"
+            },
+            "fra": {
+                "f": "Burundaise",
+                "m": "Burundais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "South Africa",
+            "official": "Republic of South Africa",
+            "nativeName": {
+                "afr": {
+                    "official": "Republiek van Suid-Afrika",
+                    "common": "South Africa"
+                },
+                "eng": {
+                    "official": "Republic of South Africa",
+                    "common": "South Africa"
+                },
+                "nbl": {
+                    "official": "IRiphabliki yeSewula Afrika",
+                    "common": "Sewula Afrika"
+                },
+                "nso": {
+                    "official": "Rephaboliki ya Afrika-Borwa ",
+                    "common": "Afrika-Borwa"
+                },
+                "sot": {
+                    "official": "Rephaboliki ya Afrika Borwa",
+                    "common": "Afrika Borwa"
+                },
+                "ssw": {
+                    "official": "IRiphabhulikhi yeNingizimu Afrika",
+                    "common": "Ningizimu Afrika"
+                },
+                "tsn": {
+                    "official": "Rephaboliki ya Aforika Borwa",
+                    "common": "Aforika Borwa"
+                },
+                "tso": {
+                    "official": "Riphabliki ra Afrika Dzonga",
+                    "common": "Afrika Dzonga"
+                },
+                "ven": {
+                    "official": "Riphabuḽiki ya Afurika Tshipembe",
+                    "common": "Afurika Tshipembe"
+                },
+                "xho": {
+                    "official": "IRiphabliki yaseMzantsi Afrika",
+                    "common": "Mzantsi Afrika"
+                },
+                "zul": {
+                    "official": "IRiphabliki yaseNingizimu Afrika",
+                    "common": "Ningizimu Afrika"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "South African",
+                "m": "South African"
+            },
+            "fra": {
+                "f": "Sud-africaine",
+                "m": "Sud-africain"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "France",
+            "official": "French Republic",
+            "nativeName": {
+                "fra": {
+                    "official": "République française",
+                    "common": "France"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "French",
+                "m": "French"
+            },
+            "fra": {
+                "f": "Française",
+                "m": "Français"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Libya",
+            "official": "State of Libya",
+            "nativeName": {
+                "ara": {
+                    "official": "الدولة ليبيا",
+                    "common": "‏ليبيا"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Libyan",
+                "m": "Libyan"
+            },
+            "fra": {
+                "f": "Libyenne",
+                "m": "Libyen"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Mexico",
+            "official": "United Mexican States",
+            "nativeName": {
+                "spa": {
+                    "official": "Estados Unidos Mexicanos",
+                    "common": "México"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Mexican",
+                "m": "Mexican"
+            },
+            "fra": {
+                "f": "Mexicaine",
+                "m": "Mexicain"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Gabon",
+            "official": "Gabonese Republic",
+            "nativeName": {
+                "fra": {
+                    "official": "République gabonaise",
+                    "common": "Gabon"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Gabonese",
+                "m": "Gabonese"
+            },
+            "fra": {
+                "f": "Gabonaise",
+                "m": "Gabonais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Northern Mariana Islands",
+            "official": "Commonwealth of the Northern Mariana Islands",
+            "nativeName": {
+                "cal": {
+                    "official": "Commonwealth of the Northern Mariana Islands",
+                    "common": "Northern Mariana Islands"
+                },
+                "cha": {
+                    "official": "Sankattan Siha Na Islas Mariånas",
+                    "common": "Na Islas Mariånas"
+                },
+                "eng": {
+                    "official": "Commonwealth of the Northern Mariana Islands",
+                    "common": "Northern Mariana Islands"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "American",
+                "m": "American"
+            },
+            "fra": {
+                "f": "Américaine",
+                "m": "Américan"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "North Macedonia",
+            "official": "Republic of North Macedonia",
+            "nativeName": {
+                "mkd": {
+                    "official": "Република Северна Македонија",
+                    "common": "Македонија"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Macedonian",
+                "m": "Macedonian"
+            },
+            "fra": {
+                "f": "Macédonienne",
+                "m": "Macédonien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "China",
+            "official": "People's Republic of China",
+            "nativeName": {
+                "zho": {
+                    "official": "中华人民共和国",
+                    "common": "中国"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Chinese",
+                "m": "Chinese"
+            },
+            "fra": {
+                "f": "Chinoise",
+                "m": "Chinois"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Yemen",
+            "official": "Republic of Yemen",
+            "nativeName": {
+                "ara": {
+                    "official": "الجمهورية اليمنية",
+                    "common": "اليَمَن"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Yemeni",
+                "m": "Yemeni"
+            },
+            "fra": {
+                "f": "Yéménite",
+                "m": "Yéménite"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Saint Barthélemy",
+            "official": "Collectivity of Saint Barthélemy",
+            "nativeName": {
+                "fra": {
+                    "official": "Collectivité de Saint-Barthélemy",
+                    "common": "Saint-Barthélemy"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Saint Barthélemy Islander",
+                "m": "Saint Barthélemy Islander"
+            },
+            "fra": {
+                "f": "Barthéloméenne",
+                "m": "Barthéloméen"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Guernsey",
+            "official": "Bailiwick of Guernsey",
+            "nativeName": {
+                "eng": {
+                    "official": "Bailiwick of Guernsey",
+                    "common": "Guernsey"
+                },
+                "fra": {
+                    "official": "Bailliage de Guernesey",
+                    "common": "Guernesey"
+                },
+                "nfr": {
+                    "official": "Dgèrnésiais",
+                    "common": "Dgèrnésiais"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Channel Islander",
+                "m": "Channel Islander"
+            },
+            "fra": {
+                "f": "Guernesiaise",
+                "m": "Guernesiais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Solomon Islands",
+            "official": "Solomon Islands",
+            "nativeName": {
+                "eng": {
+                    "official": "Solomon Islands",
+                    "common": "Solomon Islands"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Solomon Islander",
+                "m": "Solomon Islander"
+            },
+            "fra": {
+                "f": "Salomonienne",
+                "m": "Salomonien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Svalbard and Jan Mayen",
+            "official": "Svalbard og Jan Mayen",
+            "nativeName": {
+                "nor": {
+                    "official": "Svalbard og Jan Mayen",
+                    "common": "Svalbard og Jan Mayen"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Norwegian",
+                "m": "Norwegian"
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Faroe Islands",
+            "official": "Faroe Islands",
+            "nativeName": {
+                "dan": {
+                    "official": "Færøerne",
+                    "common": "Færøerne"
+                },
+                "fao": {
+                    "official": "Føroyar",
+                    "common": "Føroyar"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Faroese",
+                "m": "Faroese"
+            },
+            "fra": {
+                "f": "Féroïenne",
+                "m": "Féroïen"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Uzbekistan",
+            "official": "Republic of Uzbekistan",
+            "nativeName": {
+                "rus": {
+                    "official": "Республика Узбекистан",
+                    "common": "Узбекистан"
+                },
+                "uzb": {
+                    "official": "O'zbekiston Respublikasi",
+                    "common": "O‘zbekiston"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Uzbekistani",
+                "m": "Uzbekistani"
+            },
+            "fra": {
+                "f": "Ouzbèke",
+                "m": "Ouzbèke"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Egypt",
+            "official": "Arab Republic of Egypt",
+            "nativeName": {
+                "ara": {
+                    "official": "جمهورية مصر العربية",
+                    "common": "مصر"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Egyptian",
+                "m": "Egyptian"
+            },
+            "fra": {
+                "f": "Égyptienne",
+                "m": "Égyptien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Senegal",
+            "official": "Republic of Senegal",
+            "nativeName": {
+                "fra": {
+                    "official": "République du Sénégal",
+                    "common": "Sénégal"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Senegalese",
+                "m": "Senegalese"
+            },
+            "fra": {
+                "f": "Sénégalaise",
+                "m": "Sénégalais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Sri Lanka",
+            "official": "Democratic Socialist Republic of Sri Lanka",
+            "nativeName": {
+                "sin": {
+                    "official": "ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය",
+                    "common": "ශ්‍රී ලංකාව"
+                },
+                "tam": {
+                    "official": "இலங்கை சனநாயக சோசலிசக் குடியரசு",
+                    "common": "இலங்கை"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Sri Lankan",
+                "m": "Sri Lankan"
+            },
+            "fra": {
+                "f": "Sri-lankaise",
+                "m": "Sri-lankais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Palestine",
+            "official": "State of Palestine",
+            "nativeName": {
+                "ara": {
+                    "official": "دولة فلسطين",
+                    "common": "فلسطين"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Palestinian",
+                "m": "Palestinian"
+            },
+            "fra": {
+                "f": "Palestinienne",
+                "m": "Palestinien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Bangladesh",
+            "official": "People's Republic of Bangladesh",
+            "nativeName": {
+                "ben": {
+                    "official": "বাংলাদেশ গণপ্রজাতন্ত্রী",
+                    "common": "বাংলাদেশ"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Bangladeshi",
+                "m": "Bangladeshi"
+            },
+            "fra": {
+                "f": "Bangladaise",
+                "m": "Bangladais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Peru",
+            "official": "Republic of Peru",
+            "nativeName": {
+                "aym": {
+                    "official": "Piruw Suyu",
+                    "common": "Piruw"
+                },
+                "que": {
+                    "official": "Piruw Ripuwlika",
+                    "common": "Piruw"
+                },
+                "spa": {
+                    "official": "República del Perú",
+                    "common": "Perú"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Peruvian",
+                "m": "Peruvian"
+            },
+            "fra": {
+                "f": "Péruvienne",
+                "m": "Péruvien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Singapore",
+            "official": "Republic of Singapore",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Singapore",
+                    "common": "Singapore"
+                },
+                "zho": {
+                    "official": "新加坡共和国",
+                    "common": "新加坡"
+                },
+                "msa": {
+                    "official": "Republik Singapura",
+                    "common": "Singapura"
+                },
+                "tam": {
+                    "official": "சிங்கப்பூர் குடியரசு",
+                    "common": "சிங்கப்பூர்"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Singaporean",
+                "m": "Singaporean"
+            },
+            "fra": {
+                "f": "Singapourienne",
+                "m": "Singapourien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Turkey",
+            "official": "Republic of Turkey",
+            "nativeName": {
+                "tur": {
+                    "official": "Türkiye Cumhuriyeti",
+                    "common": "Türkiye"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Turkish",
+                "m": "Turkish"
+            },
+            "fra": {
+                "f": "Turque",
+                "m": "Turc"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Afghanistan",
+            "official": "Islamic Republic of Afghanistan",
+            "nativeName": {
+                "prs": {
+                    "official": "جمهوری اسلامی افغانستان",
+                    "common": "افغانستان"
+                },
+                "pus": {
+                    "official": "د افغانستان اسلامي جمهوریت",
+                    "common": "افغانستان"
+                },
+                "tuk": {
+                    "official": "Owganystan Yslam Respublikasy",
+                    "common": "Owganystan"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Afghan",
+                "m": "Afghan"
+            },
+            "fra": {
+                "f": "Afghane",
+                "m": "Afghan"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Aruba",
+            "official": "Aruba",
+            "nativeName": {
+                "nld": {
+                    "official": "Aruba",
+                    "common": "Aruba"
+                },
+                "pap": {
+                    "official": "Aruba",
+                    "common": "Aruba"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Aruban",
+                "m": "Aruban"
+            },
+            "fra": {
+                "f": "Arubaise",
+                "m": "Arubais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Cook Islands",
+            "official": "Cook Islands",
+            "nativeName": {
+                "eng": {
+                    "official": "Cook Islands",
+                    "common": "Cook Islands"
+                },
+                "rar": {
+                    "official": "Kūki 'Āirani",
+                    "common": "Kūki 'Āirani"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Cook Islander",
+                "m": "Cook Islander"
+            },
+            "fra": {
+                "f": "Cookienne",
+                "m": "Cookien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "United Kingdom",
+            "official": "United Kingdom of Great Britain and Northern Ireland",
+            "nativeName": {
+                "eng": {
+                    "official": "United Kingdom of Great Britain and Northern Ireland",
+                    "common": "United Kingdom"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "British",
+                "m": "British"
+            },
+            "fra": {
+                "f": "Britannique",
+                "m": "Britannique"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Zambia",
+            "official": "Republic of Zambia",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Zambia",
+                    "common": "Zambia"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Zambian",
+                "m": "Zambian"
+            },
+            "fra": {
+                "f": "Zambienne",
+                "m": "Zambien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Finland",
+            "official": "Republic of Finland",
+            "nativeName": {
+                "fin": {
+                    "official": "Suomen tasavalta",
+                    "common": "Suomi"
+                },
+                "swe": {
+                    "official": "Republiken Finland",
+                    "common": "Finland"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Finnish",
+                "m": "Finnish"
+            },
+            "fra": {
+                "f": "Finlandaise",
+                "m": "Finlandais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Niger",
+            "official": "Republic of Niger",
+            "nativeName": {
+                "fra": {
+                    "official": "République du Niger",
+                    "common": "Niger"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Nigerien",
+                "m": "Nigerien"
+            },
+            "fra": {
+                "f": "Nigérienne",
+                "m": "Nigérien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Christmas Island",
+            "official": "Territory of Christmas Island",
+            "nativeName": {
+                "eng": {
+                    "official": "Territory of Christmas Island",
+                    "common": "Christmas Island"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Christmas Islander",
+                "m": "Christmas Islander"
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Tokelau",
+            "official": "Tokelau",
+            "nativeName": {
+                "eng": {
+                    "official": "Tokelau",
+                    "common": "Tokelau"
+                },
+                "smo": {
+                    "official": "Tokelau",
+                    "common": "Tokelau"
+                },
+                "tkl": {
+                    "official": "Tokelau",
+                    "common": "Tokelau"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Tokelauan",
+                "m": "Tokelauan"
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Guinea-Bissau",
+            "official": "Republic of Guinea-Bissau",
+            "nativeName": {
+                "por": {
+                    "official": "República da Guiné-Bissau",
+                    "common": "Guiné-Bissau"
+                },
+                "pov": {
+                    "official": "República da Guiné-Bissau",
+                    "common": "Guiné-Bissau"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Guinea-Bissauan",
+                "m": "Guinea-Bissauan"
+            },
+            "fra": {
+                "f": "Bissau-Guinéenne",
+                "m": "Bissau-Guinéen"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Azerbaijan",
+            "official": "Republic of Azerbaijan",
+            "nativeName": {
+                "aze": {
+                    "official": "Azərbaycan Respublikası",
+                    "common": "Azərbaycan"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Azerbaijani",
+                "m": "Azerbaijani"
+            },
+            "fra": {
+                "f": "Azerbaïdjanaise",
+                "m": "Azerbaïdjanais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Réunion",
+            "official": "Réunion Island",
+            "nativeName": {
+                "fra": {
+                    "official": "Ile de la Réunion",
+                    "common": "La Réunion"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Réunionese",
+                "m": "Réunionese"
+            },
+            "fra": {
+                "f": "Réunionnaise",
+                "m": "Réunionnais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Djibouti",
+            "official": "Republic of Djibouti",
+            "nativeName": {
+                "ara": {
+                    "official": "جمهورية جيبوتي",
+                    "common": "جيبوتي‎"
+                },
+                "fra": {
+                    "official": "République de Djibouti",
+                    "common": "Djibouti"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Djibouti",
+                "m": "Djibouti"
+            },
+            "fra": {
+                "f": "Djiboutienne",
+                "m": "Djiboutien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "North Korea",
+            "official": "Democratic People's Republic of Korea",
+            "nativeName": {
+                "kor": {
+                    "official": "조선민주주의인민공화국",
+                    "common": "조선"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "North Korean",
+                "m": "North Korean"
+            },
+            "fra": {
+                "f": "Nord-coréenne",
+                "m": "Nord-coréen"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Mauritius",
+            "official": "Republic of Mauritius",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Mauritius",
+                    "common": "Mauritius"
+                },
+                "fra": {
+                    "official": "République de Maurice",
+                    "common": "Maurice"
+                },
+                "mfe": {
+                    "official": "Republik Moris",
+                    "common": "Moris"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Mauritian",
+                "m": "Mauritian"
+            },
+            "fra": {
+                "f": "Mauricienne",
+                "m": "Mauricien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Montserrat",
+            "official": "Montserrat",
+            "nativeName": {
+                "eng": {
+                    "official": "Montserrat",
+                    "common": "Montserrat"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Montserratian",
+                "m": "Montserratian"
+            },
+            "fra": {
+                "f": "Montserratienne",
+                "m": "Montserratien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "United States Virgin Islands",
+            "official": "Virgin Islands of the United States",
+            "nativeName": {
+                "eng": {
+                    "official": "Virgin Islands of the United States",
+                    "common": "United States Virgin Islands"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Virgin Islander",
+                "m": "Virgin Islander"
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Colombia",
+            "official": "Republic of Colombia",
+            "nativeName": {
+                "spa": {
+                    "official": "República de Colombia",
+                    "common": "Colombia"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Colombian",
+                "m": "Colombian"
+            },
+            "fra": {
+                "f": "Colombienne",
+                "m": "Colombien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Greece",
+            "official": "Hellenic Republic",
+            "nativeName": {
+                "ell": {
+                    "official": "Ελληνική Δημοκρατία",
+                    "common": "Ελλάδα"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Greek",
+                "m": "Greek"
+            },
+            "fra": {
+                "f": "Grecque",
+                "m": "Grec"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Croatia",
+            "official": "Republic of Croatia",
+            "nativeName": {
+                "hrv": {
+                    "official": "Republika Hrvatska",
+                    "common": "Hrvatska"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Croatian",
+                "m": "Croatian"
+            },
+            "fra": {
+                "f": "Croate",
+                "m": "Croate"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Morocco",
+            "official": "Kingdom of Morocco",
+            "nativeName": {
+                "ara": {
+                    "official": "المملكة المغربية",
+                    "common": "المغرب"
+                },
+                "ber": {
+                    "official": "ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ",
+                    "common": "ⵍⵎⴰⵖⵔⵉⴱ"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Moroccan",
+                "m": "Moroccan"
+            },
+            "fra": {
+                "f": "Marocaine",
+                "m": "Marocain"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Algeria",
+            "official": "People's Democratic Republic of Algeria",
+            "nativeName": {
+                "ara": {
+                    "official": "الجمهورية الديمقراطية الشعبية الجزائرية",
+                    "common": "الجزائر"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Algerian",
+                "m": "Algerian"
+            },
+            "fra": {
+                "f": "Algérienne",
+                "m": "Algérien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Antarctica",
+            "official": "Antarctica",
+            "nativeName": {}
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Antarctican",
+                "m": "Antarctican"
+            },
+            "fra": {
+                "f": "Antarcticaine",
+                "m": "Antarcticain"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Netherlands",
+            "official": "Kingdom of the Netherlands",
+            "nativeName": {
+                "nld": {
+                    "official": "Koninkrijk der Nederlanden",
+                    "common": "Nederland"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Dutch",
+                "m": "Dutch"
+            },
+            "fra": {
+                "f": "Néerlandaise",
+                "m": "Néerlandais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Sudan",
+            "official": "Republic of the Sudan",
+            "nativeName": {
+                "ara": {
+                    "official": "جمهورية السودان",
+                    "common": "السودان"
+                },
+                "eng": {
+                    "official": "Republic of the Sudan",
+                    "common": "Sudan"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Sudanese",
+                "m": "Sudanese"
+            },
+            "fra": {
+                "f": "Soudanaise",
+                "m": "Soudanais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Fiji",
+            "official": "Republic of Fiji",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Fiji",
+                    "common": "Fiji"
+                },
+                "fij": {
+                    "official": "Matanitu Tugalala o Viti",
+                    "common": "Viti"
+                },
+                "hif": {
+                    "official": "रिपब्लिक ऑफ फीजी",
+                    "common": "फिजी"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Fijian",
+                "m": "Fijian"
+            },
+            "fra": {
+                "f": "Fidjienne",
+                "m": "Fidjien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Liechtenstein",
+            "official": "Principality of Liechtenstein",
+            "nativeName": {
+                "deu": {
+                    "official": "Fürstentum Liechtenstein",
+                    "common": "Liechtenstein"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Liechtensteiner",
+                "m": "Liechtensteiner"
+            },
+            "fra": {
+                "f": "Liechtensteinoise",
+                "m": "Liechtensteinois"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Nepal",
+            "official": "Federal Democratic Republic of Nepal",
+            "nativeName": {
+                "nep": {
+                    "official": "नेपाल संघीय लोकतान्त्रिक गणतन्त्र",
+                    "common": "नेपाल"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Nepalese",
+                "m": "Nepalese"
+            },
+            "fra": {
+                "f": "Népalaise",
+                "m": "Népalais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Puerto Rico",
+            "official": "Commonwealth of Puerto Rico",
+            "nativeName": {
+                "eng": {
+                    "official": "Commonwealth of Puerto Rico",
+                    "common": "Puerto Rico"
+                },
+                "spa": {
+                    "official": "Estado Libre Asociado de Puerto Rico",
+                    "common": "Puerto Rico"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Puerto Rican",
+                "m": "Puerto Rican"
+            },
+            "fra": {
+                "f": "Portoricaine",
+                "m": "Portoricain"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Georgia",
+            "official": "Georgia",
+            "nativeName": {
+                "kat": {
+                    "official": "საქართველო",
+                    "common": "საქართველო"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Georgian",
+                "m": "Georgian"
+            },
+            "fra": {
+                "f": "Géorgienne",
+                "m": "Géorgien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Pakistan",
+            "official": "Islamic Republic of Pakistan",
+            "nativeName": {
+                "eng": {
+                    "official": "Islamic Republic of Pakistan",
+                    "common": "Pakistan"
+                },
+                "urd": {
+                    "official": "اسلامی جمہوریۂ پاكستان",
+                    "common": "پاكستان"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Pakistani",
+                "m": "Pakistani"
+            },
+            "fra": {
+                "f": "Pakistanaise",
+                "m": "Pakistanais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Monaco",
+            "official": "Principality of Monaco",
+            "nativeName": {
+                "fra": {
+                    "official": "Principauté de Monaco",
+                    "common": "Monaco"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Monegasque",
+                "m": "Monegasque"
+            },
+            "fra": {
+                "f": "Monégasque",
+                "m": "Monégasque"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Botswana",
+            "official": "Republic of Botswana",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Botswana",
+                    "common": "Botswana"
+                },
+                "tsn": {
+                    "official": "Lefatshe la Botswana",
+                    "common": "Botswana"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Motswana",
+                "m": "Motswana"
+            },
+            "fra": {
+                "f": "Botswanaise",
+                "m": "Botswanais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Lebanon",
+            "official": "Lebanese Republic",
+            "nativeName": {
+                "ara": {
+                    "official": "الجمهورية اللبنانية",
+                    "common": "لبنان"
+                },
+                "fra": {
+                    "official": "République libanaise",
+                    "common": "Liban"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Lebanese",
+                "m": "Lebanese"
+            },
+            "fra": {
+                "f": "Libanaise",
+                "m": "Libanais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Papua New Guinea",
+            "official": "Independent State of Papua New Guinea",
+            "nativeName": {
+                "eng": {
+                    "official": "Independent State of Papua New Guinea",
+                    "common": "Papua New Guinea"
+                },
+                "hmo": {
+                    "official": "Independen Stet bilong Papua Niugini",
+                    "common": "Papua Niu Gini"
+                },
+                "tpi": {
+                    "official": "Independen Stet bilong Papua Niugini",
+                    "common": "Papua Niugini"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Papua New Guinean",
+                "m": "Papua New Guinean"
+            },
+            "fra": {
+                "f": "Papouasienne",
+                "m": "Papouasien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Mayotte",
+            "official": "Department of Mayotte",
+            "nativeName": {
+                "fra": {
+                    "official": "Département de Mayotte",
+                    "common": "Mayotte"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Mahoran",
+                "m": "Mahoran"
+            },
+            "fra": {
+                "f": "Mahoraise",
+                "m": "Mahorais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Dominican Republic",
+            "official": "Dominican Republic",
+            "nativeName": {
+                "spa": {
+                    "official": "República Dominicana",
+                    "common": "República Dominicana"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Dominican",
+                "m": "Dominican"
+            },
+            "fra": {
+                "f": "Dominicaine",
+                "m": "Dominicain"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Norfolk Island",
+            "official": "Territory of Norfolk Island",
+            "nativeName": {
+                "eng": {
+                    "official": "Territory of Norfolk Island",
+                    "common": "Norfolk Island"
+                },
+                "pih": {
+                    "official": "Teratri of Norf'k Ailen",
+                    "common": "Norf'k Ailen"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Norfolk Islander",
+                "m": "Norfolk Islander"
+            },
+            "fra": {
+                "f": "Norfolkaise",
+                "m": "Norfolkais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Bouvet Island",
+            "official": "Bouvet Island",
+            "nativeName": {
+                "nor": {
+                    "official": "Bouvetøya",
+                    "common": "Bouvetøya"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "",
+                "m": ""
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Qatar",
+            "official": "State of Qatar",
+            "nativeName": {
+                "ara": {
+                    "official": "دولة قطر",
+                    "common": "قطر"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Qatari",
+                "m": "Qatari"
+            },
+            "fra": {
+                "f": "Qatarienne",
+                "m": "Qatarien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Madagascar",
+            "official": "Republic of Madagascar",
+            "nativeName": {
+                "fra": {
+                    "official": "République de Madagascar",
+                    "common": "Madagascar"
+                },
+                "mlg": {
+                    "official": "Repoblikan'i Madagasikara",
+                    "common": "Madagasikara"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Malagasy",
+                "m": "Malagasy"
+            },
+            "fra": {
+                "f": "Malgache",
+                "m": "Malgache"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "India",
+            "official": "Republic of India",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of India",
+                    "common": "India"
+                },
+                "hin": {
+                    "official": "भारत गणराज्य",
+                    "common": "भारत"
+                },
+                "tam": {
+                    "official": "இந்தியக் குடியரசு",
+                    "common": "இந்தியா"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Indian",
+                "m": "Indian"
+            },
+            "fra": {
+                "f": "Indienne",
+                "m": "Indien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Syria",
+            "official": "Syrian Arab Republic",
+            "nativeName": {
+                "ara": {
+                    "official": "الجمهورية العربية السورية",
+                    "common": "سوريا"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Syrian",
+                "m": "Syrian"
+            },
+            "fra": {
+                "f": "Syrienne",
+                "m": "Syrien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Montenegro",
+            "official": "Montenegro",
+            "nativeName": {
+                "cnr": {
+                    "official": "Црна Гора",
+                    "common": "Црна Гора"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Montenegrin",
+                "m": "Montenegrin"
+            },
+            "fra": {
+                "f": "Monténégrine",
+                "m": "Monténégrin"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Eswatini",
+            "official": "Kingdom of Eswatini",
+            "nativeName": {
+                "eng": {
+                    "official": "Kingdom of Eswatini",
+                    "common": "Eswatini"
+                },
+                "ssw": {
+                    "official": "Umbuso weSwatini",
+                    "common": "eSwatini"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Swazi",
+                "m": "Swazi"
+            },
+            "fra": {
+                "f": "Swazie",
+                "m": "Swazie"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Paraguay",
+            "official": "Republic of Paraguay",
+            "nativeName": {
+                "grn": {
+                    "official": "Tetã Paraguái",
+                    "common": "Paraguái"
+                },
+                "spa": {
+                    "official": "República de Paraguay",
+                    "common": "Paraguay"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Paraguayan",
+                "m": "Paraguayan"
+            },
+            "fra": {
+                "f": "Paraguayenne",
+                "m": "Paraguayen"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "El Salvador",
+            "official": "Republic of El Salvador",
+            "nativeName": {
+                "spa": {
+                    "official": "República de El Salvador",
+                    "common": "El Salvador"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Salvadoran",
+                "m": "Salvadoran"
+            },
+            "fra": {
+                "f": "Salvadorienne",
+                "m": "Salvadorien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Ukraine",
+            "official": "Ukraine",
+            "nativeName": {
+                "ukr": {
+                    "official": "Україна",
+                    "common": "Україна"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Ukrainian",
+                "m": "Ukrainian"
+            },
+            "fra": {
+                "f": "Ukrainienne",
+                "m": "Ukrainien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Isle of Man",
+            "official": "Isle of Man",
+            "nativeName": {
+                "eng": {
+                    "official": "Isle of Man",
+                    "common": "Isle of Man"
+                },
+                "glv": {
+                    "official": "Ellan Vannin or Mannin",
+                    "common": "Mannin"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Manx",
+                "m": "Manx"
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Namibia",
+            "official": "Republic of Namibia",
+            "nativeName": {
+                "afr": {
+                    "official": "Republiek van Namibië",
+                    "common": "Namibië"
+                },
+                "deu": {
+                    "official": "Republik Namibia",
+                    "common": "Namibia"
+                },
+                "eng": {
+                    "official": "Republic of Namibia",
+                    "common": "Namibia"
+                },
+                "her": {
+                    "official": "Republic of Namibia",
+                    "common": "Namibia"
+                },
+                "hgm": {
+                    "official": "Republic of Namibia",
+                    "common": "Namibia"
+                },
+                "kwn": {
+                    "official": "Republic of Namibia",
+                    "common": "Namibia"
+                },
+                "loz": {
+                    "official": "Republic of Namibia",
+                    "common": "Namibia"
+                },
+                "ndo": {
+                    "official": "Republic of Namibia",
+                    "common": "Namibia"
+                },
+                "tsn": {
+                    "official": "Lefatshe la Namibia",
+                    "common": "Namibia"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Namibian",
+                "m": "Namibian"
+            },
+            "fra": {
+                "f": "Namibienne",
+                "m": "Namibien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "United Arab Emirates",
+            "official": "United Arab Emirates",
+            "nativeName": {
+                "ara": {
+                    "official": "الإمارات العربية المتحدة",
+                    "common": "دولة الإمارات العربية المتحدة"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Emirati",
+                "m": "Emirati"
+            },
+            "fra": {
+                "f": "Emirienne",
+                "m": "Emirien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Bulgaria",
+            "official": "Republic of Bulgaria",
+            "nativeName": {
+                "bul": {
+                    "official": "Република България",
+                    "common": "България"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Bulgarian",
+                "m": "Bulgarian"
+            },
+            "fra": {
+                "f": "Bulgare",
+                "m": "Bulgare"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Greenland",
+            "official": "Greenland",
+            "nativeName": {
+                "kal": {
+                    "official": "Kalaallit Nunaat",
+                    "common": "Kalaallit Nunaat"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Greenlandic",
+                "m": "Greenlandic"
+            },
+            "fra": {
+                "f": "Groenlandaise",
+                "m": "Groenlandais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Germany",
+            "official": "Federal Republic of Germany",
+            "nativeName": {
+                "deu": {
+                    "official": "Bundesrepublik Deutschland",
+                    "common": "Deutschland"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "German",
+                "m": "German"
+            },
+            "fra": {
+                "f": "Allemande",
+                "m": "Allemand"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Cambodia",
+            "official": "Kingdom of Cambodia",
+            "nativeName": {
+                "khm": {
+                    "official": "ព្រះរាជាណាចក្រកម្ពុជា",
+                    "common": "Kâmpŭchéa"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Cambodian",
+                "m": "Cambodian"
+            },
+            "fra": {
+                "f": "Cambodgienne",
+                "m": "Cambodgien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Iraq",
+            "official": "Republic of Iraq",
+            "nativeName": {
+                "ara": {
+                    "official": "جمهورية العراق",
+                    "common": "العراق"
+                },
+                "arc": {
+                    "official": "ܩܘܼܛܢܵܐ ܐܝܼܪܲܩ",
+                    "common": "ܩܘܼܛܢܵܐ"
+                },
+                "ckb": {
+                    "official": "کۆماری عێراق",
+                    "common": "کۆماری"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Iraqi",
+                "m": "Iraqi"
+            },
+            "fra": {
+                "f": "Irakienne",
+                "m": "Irakien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "French Southern and Antarctic Lands",
+            "official": "Territory of the French Southern and Antarctic Lands",
+            "nativeName": {
+                "fra": {
+                    "official": "Territoire des Terres australes et antarctiques françaises",
+                    "common": "Terres australes et antarctiques françaises"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "French",
+                "m": "French"
+            },
+            "fra": {
+                "f": "Française",
+                "m": "Français"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Sweden",
+            "official": "Kingdom of Sweden",
+            "nativeName": {
+                "swe": {
+                    "official": "Konungariket Sverige",
+                    "common": "Sverige"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Swedish",
+                "m": "Swedish"
+            },
+            "fra": {
+                "f": "Suédoise",
+                "m": "Suédois"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Cuba",
+            "official": "Republic of Cuba",
+            "nativeName": {
+                "spa": {
+                    "official": "República de Cuba",
+                    "common": "Cuba"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Cuban",
+                "m": "Cuban"
+            },
+            "fra": {
+                "f": "Cubaine",
+                "m": "Cubain"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Kyrgyzstan",
+            "official": "Kyrgyz Republic",
+            "nativeName": {
+                "kir": {
+                    "official": "Кыргыз Республикасы",
+                    "common": "Кыргызстан"
+                },
+                "rus": {
+                    "official": "Кыргызская Республика",
+                    "common": "Киргизия"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Kirghiz",
+                "m": "Kirghiz"
+            },
+            "fra": {
+                "f": "Kirghize",
+                "m": "Kirghize"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Russia",
+            "official": "Russian Federation",
+            "nativeName": {
+                "rus": {
+                    "official": "Российская Федерация",
+                    "common": "Россия"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Russian",
+                "m": "Russian"
+            },
+            "fra": {
+                "f": "Russe",
+                "m": "Russe"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Malaysia",
+            "official": "Malaysia",
+            "nativeName": {
+                "eng": {
+                    "official": "Malaysia",
+                    "common": "Malaysia"
+                },
+                "msa": {
+                    "official": "مليسيا",
+                    "common": "مليسيا"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Malaysian",
+                "m": "Malaysian"
+            },
+            "fra": {
+                "f": "Malaisienne",
+                "m": "Malaisien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "São Tomé and Príncipe",
+            "official": "Democratic Republic of São Tomé and Príncipe",
+            "nativeName": {
+                "por": {
+                    "official": "República Democrática do São Tomé e Príncipe",
+                    "common": "São Tomé e Príncipe"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Sao Tomean",
+                "m": "Sao Tomean"
+            },
+            "fra": {
+                "f": "Santoméenne",
+                "m": "Santoméen"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Cyprus",
+            "official": "Republic of Cyprus",
+            "nativeName": {
+                "ell": {
+                    "official": "Δημοκρατία της Κύπρος",
+                    "common": "Κύπρος"
+                },
+                "tur": {
+                    "official": "Kıbrıs Cumhuriyeti",
+                    "common": "Kıbrıs"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Cypriot",
+                "m": "Cypriot"
+            },
+            "fra": {
+                "f": "Chypriote",
+                "m": "Chypriote"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Canada",
+            "official": "Canada",
+            "nativeName": {
+                "eng": {
+                    "official": "Canada",
+                    "common": "Canada"
+                },
+                "fra": {
+                    "official": "Canada",
+                    "common": "Canada"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Canadian",
+                "m": "Canadian"
+            },
+            "fra": {
+                "f": "Canadienne",
+                "m": "Canadien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Malawi",
+            "official": "Republic of Malawi",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Malawi",
+                    "common": "Malawi"
+                },
+                "nya": {
+                    "official": "Chalo cha Malawi, Dziko la Malaŵi",
+                    "common": "Malaŵi"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Malawian",
+                "m": "Malawian"
+            },
+            "fra": {
+                "f": "Malawienne",
+                "m": "Malawien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Saudi Arabia",
+            "official": "Kingdom of Saudi Arabia",
+            "nativeName": {
+                "ara": {
+                    "official": "المملكة العربية السعودية",
+                    "common": "العربية السعودية"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Saudi Arabian",
+                "m": "Saudi Arabian"
+            },
+            "fra": {
+                "f": "Saoudienne",
+                "m": "Saoudien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Bosnia and Herzegovina",
+            "official": "Bosnia and Herzegovina",
+            "nativeName": {
+                "bos": {
+                    "official": "Bosna i Hercegovina",
+                    "common": "Bosna i Hercegovina"
+                },
+                "hrv": {
+                    "official": "Bosna i Hercegovina",
+                    "common": "Bosna i Hercegovina"
+                },
+                "srp": {
+                    "official": "Босна и Херцеговина",
+                    "common": "Босна и Херцеговина"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Bosnian, Herzegovinian",
+                "m": "Bosnian, Herzegovinian"
+            },
+            "fra": {
+                "f": "Bosnienne",
+                "m": "Bosnien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Ethiopia",
+            "official": "Federal Democratic Republic of Ethiopia",
+            "nativeName": {
+                "amh": {
+                    "official": "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ",
+                    "common": "ኢትዮጵያ"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Ethiopian",
+                "m": "Ethiopian"
+            },
+            "fra": {
+                "f": "Éthiopienne",
+                "m": "Éthiopien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Spain",
+            "official": "Kingdom of Spain",
+            "nativeName": {
+                "spa": {
+                    "official": "Reino de España",
+                    "common": "España"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Spanish",
+                "m": "Spanish"
+            },
+            "fra": {
+                "f": "Espagnole",
+                "m": "Espagnol"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Slovenia",
+            "official": "Republic of Slovenia",
+            "nativeName": {
+                "slv": {
+                    "official": "Republika Slovenija",
+                    "common": "Slovenija"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Slovene",
+                "m": "Slovene"
+            },
+            "fra": {
+                "f": "Slovène",
+                "m": "Slovène"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Oman",
+            "official": "Sultanate of Oman",
+            "nativeName": {
+                "ara": {
+                    "official": "سلطنة عمان",
+                    "common": "عمان"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Omani",
+                "m": "Omani"
+            },
+            "fra": {
+                "f": "Omanaise",
+                "m": "Omanais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Saint Pierre and Miquelon",
+            "official": "Saint Pierre and Miquelon",
+            "nativeName": {
+                "fra": {
+                    "official": "Collectivité territoriale de Saint-Pierre-et-Miquelon",
+                    "common": "Saint-Pierre-et-Miquelon"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Saint-Pierrais, Miquelonnais",
+                "m": "Saint-Pierrais, Miquelonnais"
+            },
+            "fra": {
+                "f": "Saint-Pierraise, Miquelonaise",
+                "m": "Saint-Pierrais, Miquelonais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Macau",
+            "official": "Macao Special Administrative Region of the People's Republic of China",
+            "nativeName": {
+                "por": {
+                    "official": "Região Administrativa Especial de Macau da República Popular da China",
+                    "common": "Macau"
+                },
+                "zho": {
+                    "official": "中华人民共和国澳门特别行政区",
+                    "common": "澳门"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Macanese",
+                "m": "Macanese"
+            },
+            "fra": {
+                "f": "Macanaise",
+                "m": "Macanais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "San Marino",
+            "official": "Republic of San Marino",
+            "nativeName": {
+                "ita": {
+                    "official": "Repubblica di San Marino",
+                    "common": "San Marino"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Sammarinese",
+                "m": "Sammarinese"
+            },
+            "fra": {
+                "f": "Saint-Marinaise",
+                "m": "Saint-Marinais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Lesotho",
+            "official": "Kingdom of Lesotho",
+            "nativeName": {
+                "eng": {
+                    "official": "Kingdom of Lesotho",
+                    "common": "Lesotho"
+                },
+                "sot": {
+                    "official": "Kingdom of Lesotho",
+                    "common": "Lesotho"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Mosotho",
+                "m": "Mosotho"
+            },
+            "fra": {
+                "f": "Lésothienne",
+                "m": "Lésothien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Marshall Islands",
+            "official": "Republic of the Marshall Islands",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of the Marshall Islands",
+                    "common": "Marshall Islands"
+                },
+                "mah": {
+                    "official": "Republic of the Marshall Islands",
+                    "common": "M̧ajeļ"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Marshallese",
+                "m": "Marshallese"
+            },
+            "fra": {
+                "f": "Marshallaise",
+                "m": "Marshallais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Sint Maarten",
+            "official": "Sint Maarten",
+            "nativeName": {
+                "eng": {
+                    "official": "Sint Maarten",
+                    "common": "Sint Maarten"
+                },
+                "fra": {
+                    "official": "Saint-Martin",
+                    "common": "Saint-Martin"
+                },
+                "nld": {
+                    "official": "Sint Maarten",
+                    "common": "Sint Maarten"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "St. Maartener",
+                "m": "St. Maartener"
+            },
+            "fra": {
+                "f": "Saint-Martinoise",
+                "m": "Saint-Martinois"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Iceland",
+            "official": "Iceland",
+            "nativeName": {
+                "isl": {
+                    "official": "Ísland",
+                    "common": "Ísland"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Icelander",
+                "m": "Icelander"
+            },
+            "fra": {
+                "f": "Islandaise",
+                "m": "Islandais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Luxembourg",
+            "official": "Grand Duchy of Luxembourg",
+            "nativeName": {
+                "deu": {
+                    "official": "Großherzogtum Luxemburg",
+                    "common": "Luxemburg"
+                },
+                "fra": {
+                    "official": "Grand-Duché de Luxembourg",
+                    "common": "Luxembourg"
+                },
+                "ltz": {
+                    "official": "Groussherzogtum Lëtzebuerg",
+                    "common": "Lëtzebuerg"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Luxembourger",
+                "m": "Luxembourger"
+            },
+            "fra": {
+                "f": "Luxembourgeoise",
+                "m": "Luxembourgeois"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Argentina",
+            "official": "Argentine Republic",
+            "nativeName": {
+                "grn": {
+                    "official": "Argentine Republic",
+                    "common": "Argentina"
+                },
+                "spa": {
+                    "official": "República Argentina",
+                    "common": "Argentina"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Argentine",
+                "m": "Argentine"
+            },
+            "fra": {
+                "f": "Argentine",
+                "m": "Argentin"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Turks and Caicos Islands",
+            "official": "Turks and Caicos Islands",
+            "nativeName": {
+                "eng": {
+                    "official": "Turks and Caicos Islands",
+                    "common": "Turks and Caicos Islands"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Turks and Caicos Islander",
+                "m": "Turks and Caicos Islander"
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Nauru",
+            "official": "Republic of Nauru",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Nauru",
+                    "common": "Nauru"
+                },
+                "nau": {
+                    "official": "Republic of Nauru",
+                    "common": "Nauru"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Nauruan",
+                "m": "Nauruan"
+            },
+            "fra": {
+                "f": "Nauruane",
+                "m": "Nauruan"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Cocos (Keeling) Islands",
+            "official": "Territory of the Cocos (Keeling) Islands",
+            "nativeName": {
+                "eng": {
+                    "official": "Territory of the Cocos (Keeling) Islands",
+                    "common": "Cocos (Keeling) Islands"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Cocos Islander",
+                "m": "Cocos Islander"
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Western Sahara",
+            "official": "Sahrawi Arab Democratic Republic",
+            "nativeName": {
+                "ber": {
+                    "official": "Sahrawi Arab Democratic Republic",
+                    "common": "Western Sahara"
+                },
+                "mey": {
+                    "official": "الجمهورية العربية الصحراوية الديمقراطية",
+                    "common": "الصحراء الغربية"
+                },
+                "spa": {
+                    "official": "República Árabe Saharaui Democrática",
+                    "common": "Sahara Occidental"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Sahrawi",
+                "m": "Sahrawi"
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Dominica",
+            "official": "Commonwealth of Dominica",
+            "nativeName": {
+                "eng": {
+                    "official": "Commonwealth of Dominica",
+                    "common": "Dominica"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Dominican",
+                "m": "Dominican"
+            },
+            "fra": {
+                "f": "Dominiquaise",
+                "m": "Dominiquais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Costa Rica",
+            "official": "Republic of Costa Rica",
+            "nativeName": {
+                "spa": {
+                    "official": "República de Costa Rica",
+                    "common": "Costa Rica"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Costa Rican",
+                "m": "Costa Rican"
+            },
+            "fra": {
+                "f": "Costaricaine",
+                "m": "Costaricain"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Australia",
+            "official": "Commonwealth of Australia",
+            "nativeName": {
+                "eng": {
+                    "official": "Commonwealth of Australia",
+                    "common": "Australia"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Australian",
+                "m": "Australian"
+            },
+            "fra": {
+                "f": "Australienne",
+                "m": "Australien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Thailand",
+            "official": "Kingdom of Thailand",
+            "nativeName": {
+                "tha": {
+                    "official": "ราชอาณาจักรไทย",
+                    "common": "ประเทศไทย"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Thai",
+                "m": "Thai"
+            },
+            "fra": {
+                "f": "Thaïlandaise",
+                "m": "Thaïlandais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Haiti",
+            "official": "Republic of Haiti",
+            "nativeName": {
+                "fra": {
+                    "official": "République d'Haïti",
+                    "common": "Haïti"
+                },
+                "hat": {
+                    "official": "Repiblik Ayiti",
+                    "common": "Ayiti"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Haitian",
+                "m": "Haitian"
+            },
+            "fra": {
+                "f": "Haïtienne",
+                "m": "Haïtien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Tuvalu",
+            "official": "Tuvalu",
+            "nativeName": {
+                "eng": {
+                    "official": "Tuvalu",
+                    "common": "Tuvalu"
+                },
+                "tvl": {
+                    "official": "Tuvalu",
+                    "common": "Tuvalu"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Tuvaluan",
+                "m": "Tuvaluan"
+            },
+            "fra": {
+                "f": "Tuvaluane",
+                "m": "Tuvaluan"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Honduras",
+            "official": "Republic of Honduras",
+            "nativeName": {
+                "spa": {
+                    "official": "República de Honduras",
+                    "common": "Honduras"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Honduran",
+                "m": "Honduran"
+            },
+            "fra": {
+                "f": "Hondurienne",
+                "m": "Hondurien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Equatorial Guinea",
+            "official": "Republic of Equatorial Guinea",
+            "nativeName": {
+                "fra": {
+                    "official": "République de la Guinée Équatoriale",
+                    "common": "Guinée équatoriale"
+                },
+                "por": {
+                    "official": "República da Guiné Equatorial",
+                    "common": "Guiné Equatorial"
+                },
+                "spa": {
+                    "official": "República de Guinea Ecuatorial",
+                    "common": "Guinea Ecuatorial"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Equatorial Guinean",
+                "m": "Equatorial Guinean"
+            },
+            "fra": {
+                "f": "Équato-guinéenne",
+                "m": "Équato-guinéen"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Saint Lucia",
+            "official": "Saint Lucia",
+            "nativeName": {
+                "eng": {
+                    "official": "Saint Lucia",
+                    "common": "Saint Lucia"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Saint Lucian",
+                "m": "Saint Lucian"
+            },
+            "fra": {
+                "f": "Saint-Lucienne",
+                "m": "Saint-Lucien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "French Polynesia",
+            "official": "French Polynesia",
+            "nativeName": {
+                "fra": {
+                    "official": "Polynésie française",
+                    "common": "Polynésie française"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "French Polynesian",
+                "m": "French Polynesian"
+            },
+            "fra": {
+                "f": "Polynésienne",
+                "m": "Polynésien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Belarus",
+            "official": "Republic of Belarus",
+            "nativeName": {
+                "bel": {
+                    "official": "Рэспубліка Беларусь",
+                    "common": "Белару́сь"
+                },
+                "rus": {
+                    "official": "Республика Беларусь",
+                    "common": "Беларусь"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Belarusian",
+                "m": "Belarusian"
+            },
+            "fra": {
+                "f": "Biélorusse",
+                "m": "Biélorusse"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Latvia",
+            "official": "Republic of Latvia",
+            "nativeName": {
+                "lav": {
+                    "official": "Latvijas Republikas",
+                    "common": "Latvija"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Latvian",
+                "m": "Latvian"
+            },
+            "fra": {
+                "f": "Lettone",
+                "m": "Letton"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Palau",
+            "official": "Republic of Palau",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Palau",
+                    "common": "Palau"
+                },
+                "pau": {
+                    "official": "Beluu er a Belau",
+                    "common": "Belau"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Palauan",
+                "m": "Palauan"
+            },
+            "fra": {
+                "f": "Paluane",
+                "m": "Paluan"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Guadeloupe",
+            "official": "Guadeloupe",
+            "nativeName": {
+                "fra": {
+                    "official": "Guadeloupe",
+                    "common": "Guadeloupe"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Guadeloupian",
+                "m": "Guadeloupian"
+            },
+            "fra": {
+                "f": "Guadeloupéenne",
+                "m": "Guadeloupéen"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Philippines",
+            "official": "Republic of the Philippines",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of the Philippines",
+                    "common": "Philippines"
+                },
+                "fil": {
+                    "official": "Republic of the Philippines",
+                    "common": "Pilipinas"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Filipino",
+                "m": "Filipino"
+            },
+            "fra": {
+                "f": "Philippine",
+                "m": "Philippin"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Gibraltar",
+            "official": "Gibraltar",
+            "nativeName": {
+                "eng": {
+                    "official": "Gibraltar",
+                    "common": "Gibraltar"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Gibraltar",
+                "m": "Gibraltar"
+            },
+            "fra": {
+                "f": "Gibraltarienne",
+                "m": "Gibraltarien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Denmark",
+            "official": "Kingdom of Denmark",
+            "nativeName": {
+                "dan": {
+                    "official": "Kongeriget Danmark",
+                    "common": "Danmark"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Danish",
+                "m": "Danish"
+            },
+            "fra": {
+                "f": "Danoise",
+                "m": "Danois"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Cameroon",
+            "official": "Republic of Cameroon",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Cameroon",
+                    "common": "Cameroon"
+                },
+                "fra": {
+                    "official": "République du Cameroun",
+                    "common": "Cameroun"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Cameroonian",
+                "m": "Cameroonian"
+            },
+            "fra": {
+                "f": "Camerounaise",
+                "m": "Camerounais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Guinea",
+            "official": "Republic of Guinea",
+            "nativeName": {
+                "fra": {
+                    "official": "République de Guinée",
+                    "common": "Guinée"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Guinean",
+                "m": "Guinean"
+            },
+            "fra": {
+                "f": "Guinéenne",
+                "m": "Guinéen"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Bahrain",
+            "official": "Kingdom of Bahrain",
+            "nativeName": {
+                "ara": {
+                    "official": "مملكة البحرين",
+                    "common": "‏البحرين"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Bahraini",
+                "m": "Bahraini"
+            },
+            "fra": {
+                "f": "Bahreïnienne",
+                "m": "Bahreïnien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Suriname",
+            "official": "Republic of Suriname",
+            "nativeName": {
+                "nld": {
+                    "official": "Republiek Suriname",
+                    "common": "Suriname"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Surinamer",
+                "m": "Surinamer"
+            },
+            "fra": {
+                "f": "Surinamaise",
+                "m": "Surinamais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "DR Congo",
+            "official": "Democratic Republic of the Congo",
+            "nativeName": {
+                "fra": {
+                    "official": "République démocratique du Congo",
+                    "common": "RD Congo"
+                },
+                "kon": {
+                    "official": "Repubilika ya Kongo Demokratiki",
+                    "common": "Repubilika ya Kongo Demokratiki"
+                },
+                "lin": {
+                    "official": "Republiki ya Kongó Demokratiki",
+                    "common": "Republiki ya Kongó Demokratiki"
+                },
+                "lua": {
+                    "official": "Ditunga dia Kongu wa Mungalaata",
+                    "common": "Ditunga dia Kongu wa Mungalaata"
+                },
+                "swa": {
+                    "official": "Jamhuri ya Kidemokrasia ya Kongo",
+                    "common": "Jamhuri ya Kidemokrasia ya Kongo"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Congolese",
+                "m": "Congolese"
+            },
+            "fra": {
+                "f": "Congolaise",
+                "m": "Congolais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Somalia",
+            "official": "Federal Republic of Somalia",
+            "nativeName": {
+                "ara": {
+                    "official": "جمهورية الصومال‎‎",
+                    "common": "الصومال‎‎"
+                },
+                "som": {
+                    "official": "Jamhuuriyadda Federaalka Soomaaliya",
+                    "common": "Soomaaliya"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Somali",
+                "m": "Somali"
+            },
+            "fra": {
+                "f": "Somalienne",
+                "m": "Somalien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Czechia",
+            "official": "Czech Republic",
+            "nativeName": {
+                "ces": {
+                    "official": "Česká republika",
+                    "common": "Česko"
+                },
+                "slk": {
+                    "official": "Česká republika",
+                    "common": "Česko"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Czech",
+                "m": "Czech"
+            },
+            "fra": {
+                "f": "Tchèque",
+                "m": "Tchèque"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "New Caledonia",
+            "official": "New Caledonia",
+            "nativeName": {
+                "fra": {
+                    "official": "Nouvelle-Calédonie",
+                    "common": "Nouvelle-Calédonie"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "New Caledonian",
+                "m": "New Caledonian"
+            },
+            "fra": {
+                "f": "Néo-Calédonienne",
+                "m": "Néo-Calédonien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Vanuatu",
+            "official": "Republic of Vanuatu",
+            "nativeName": {
+                "bis": {
+                    "official": "Ripablik blong Vanuatu",
+                    "common": "Vanuatu"
+                },
+                "eng": {
+                    "official": "Republic of Vanuatu",
+                    "common": "Vanuatu"
+                },
+                "fra": {
+                    "official": "République de Vanuatu",
+                    "common": "Vanuatu"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Ni-Vanuatu",
+                "m": "Ni-Vanuatu"
+            },
+            "fra": {
+                "f": "Vanuatuane",
+                "m": "Vanuatuan"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Saint Helena, Ascension and Tristan da Cunha",
+            "official": "Saint Helena, Ascension and Tristan da Cunha",
+            "nativeName": {
+                "eng": {
+                    "official": "Saint Helena, Ascension and Tristan da Cunha",
+                    "common": "Saint Helena, Ascension and Tristan da Cunha"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Saint Helenian",
+                "m": "Saint Helenian"
+            },
+            "fra": {
+                "f": "Sainte-Hélénoise",
+                "m": "Sainte-Hélènois"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Togo",
+            "official": "Togolese Republic",
+            "nativeName": {
+                "fra": {
+                    "official": "République togolaise",
+                    "common": "Togo"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Togolese",
+                "m": "Togolese"
+            },
+            "fra": {
+                "f": "Togolaise",
+                "m": "Togolais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "British Virgin Islands",
+            "official": "Virgin Islands",
+            "nativeName": {
+                "eng": {
+                    "official": "Virgin Islands",
+                    "common": "British Virgin Islands"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Virgin Islander",
+                "m": "Virgin Islander"
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Kenya",
+            "official": "Republic of Kenya",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Kenya",
+                    "common": "Kenya"
+                },
+                "swa": {
+                    "official": "Republic of Kenya",
+                    "common": "Kenya"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Kenyan",
+                "m": "Kenyan"
+            },
+            "fra": {
+                "f": "Kényane",
+                "m": "Kényan"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Niue",
+            "official": "Niue",
+            "nativeName": {
+                "eng": {
+                    "official": "Niue",
+                    "common": "Niue"
+                },
+                "niu": {
+                    "official": "Niuē",
+                    "common": "Niuē"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Niuean",
+                "m": "Niuean"
+            },
+            "fra": {
+                "f": "Niuéenne",
+                "m": "Niuéen"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Heard Island and McDonald Islands",
+            "official": "Heard Island and McDonald Islands",
+            "nativeName": {
+                "eng": {
+                    "official": "Heard Island and McDonald Islands",
+                    "common": "Heard Island and McDonald Islands"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Heard and McDonald Islander",
+                "m": "Heard and McDonald Islander"
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Rwanda",
+            "official": "Republic of Rwanda",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Rwanda",
+                    "common": "Rwanda"
+                },
+                "fra": {
+                    "official": "République rwandaise",
+                    "common": "Rwanda"
+                },
+                "kin": {
+                    "official": "Repubulika y'u Rwanda",
+                    "common": "Rwanda"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Rwandan",
+                "m": "Rwandan"
+            },
+            "fra": {
+                "f": "Rwandaise",
+                "m": "Rwandais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Estonia",
+            "official": "Republic of Estonia",
+            "nativeName": {
+                "est": {
+                    "official": "Eesti Vabariik",
+                    "common": "Eesti"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Estonian",
+                "m": "Estonian"
+            },
+            "fra": {
+                "f": "Estonienne",
+                "m": "Estonien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Romania",
+            "official": "Romania",
+            "nativeName": {
+                "ron": {
+                    "official": "România",
+                    "common": "România"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Romanian",
+                "m": "Romanian"
+            },
+            "fra": {
+                "f": "Roumaine",
+                "m": "Roumain"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Trinidad and Tobago",
+            "official": "Republic of Trinidad and Tobago",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Trinidad and Tobago",
+                    "common": "Trinidad and Tobago"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Trinidadian",
+                "m": "Trinidadian"
+            },
+            "fra": {
+                "f": "Trinidadienne",
+                "m": "Trinidadien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Guyana",
+            "official": "Co-operative Republic of Guyana",
+            "nativeName": {
+                "eng": {
+                    "official": "Co-operative Republic of Guyana",
+                    "common": "Guyana"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Guyanese",
+                "m": "Guyanese"
+            },
+            "fra": {
+                "f": "Guyanienne",
+                "m": "Guyanien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Timor-Leste",
+            "official": "Democratic Republic of Timor-Leste",
+            "nativeName": {
+                "por": {
+                    "official": "República Democrática de Timor-Leste",
+                    "common": "Timor-Leste"
+                },
+                "tet": {
+                    "official": "Repúblika Demokrátika Timór-Leste",
+                    "common": "Timór-Leste"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "East Timorese",
+                "m": "East Timorese"
+            },
+            "fra": {
+                "f": "Est-timoraise",
+                "m": "Est-timorais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Vietnam",
+            "official": "Socialist Republic of Vietnam",
+            "nativeName": {
+                "vie": {
+                    "official": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+                    "common": "Việt Nam"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Vietnamese",
+                "m": "Vietnamese"
+            },
+            "fra": {
+                "f": "Vietnamienne",
+                "m": "Vietnamien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Uruguay",
+            "official": "Oriental Republic of Uruguay",
+            "nativeName": {
+                "spa": {
+                    "official": "República Oriental del Uruguay",
+                    "common": "Uruguay"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Uruguayan",
+                "m": "Uruguayan"
+            },
+            "fra": {
+                "f": "Uruguayenne",
+                "m": "Uruguayen"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Vatican City",
+            "official": "Vatican City State",
+            "nativeName": {
+                "ita": {
+                    "official": "Stato della Città del Vaticano",
+                    "common": "Vaticano"
+                },
+                "lat": {
+                    "official": "Status Civitatis Vaticanæ",
+                    "common": "Vaticanæ"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Vatican",
+                "m": "Vatican"
+            },
+            "fra": {
+                "f": "Vaticane",
+                "m": "Vatican"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Hong Kong",
+            "official": "Hong Kong Special Administrative Region of the People's Republic of China",
+            "nativeName": {
+                "eng": {
+                    "official": "Hong Kong Special Administrative Region of the People's Republic of China",
+                    "common": "Hong Kong"
+                },
+                "zho": {
+                    "official": "中华人民共和国香港特别行政区",
+                    "common": "香港"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Hong Konger",
+                "m": "Hong Konger"
+            },
+            "fra": {
+                "f": "Hongkongaise",
+                "m": "Hongkongais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Austria",
+            "official": "Republic of Austria",
+            "nativeName": {
+                "bar": {
+                    "official": "Republik Österreich",
+                    "common": "Österreich"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Austrian",
+                "m": "Austrian"
+            },
+            "fra": {
+                "f": "Autrichienne",
+                "m": "Autrichien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Antigua and Barbuda",
+            "official": "Antigua and Barbuda",
+            "nativeName": {
+                "eng": {
+                    "official": "Antigua and Barbuda",
+                    "common": "Antigua and Barbuda"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Antiguan, Barbudan",
+                "m": "Antiguan, Barbudan"
+            },
+            "fra": {
+                "f": "Antiguaise et barbudienne",
+                "m": "Antiguaise et barbudien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Turkmenistan",
+            "official": "Turkmenistan",
+            "nativeName": {
+                "rus": {
+                    "official": "Туркменистан",
+                    "common": "Туркмения"
+                },
+                "tuk": {
+                    "official": "Türkmenistan",
+                    "common": "Türkmenistan"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Turkmen",
+                "m": "Turkmen"
+            },
+            "fra": {
+                "f": "Turkmène",
+                "m": "Turkmène"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Mozambique",
+            "official": "Republic of Mozambique",
+            "nativeName": {
+                "por": {
+                    "official": "República de Moçambique",
+                    "common": "Moçambique"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Mozambican",
+                "m": "Mozambican"
+            },
+            "fra": {
+                "f": "Mozambicaine",
+                "m": "Mozambicain"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Panama",
+            "official": "Republic of Panama",
+            "nativeName": {
+                "spa": {
+                    "official": "República de Panamá",
+                    "common": "Panamá"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Panamanian",
+                "m": "Panamanian"
+            },
+            "fra": {
+                "f": "Panaméenne",
+                "m": "Panaméen"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Micronesia",
+            "official": "Federated States of Micronesia",
+            "nativeName": {
+                "eng": {
+                    "official": "Federated States of Micronesia",
+                    "common": "Micronesia"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Micronesian",
+                "m": "Micronesian"
+            },
+            "fra": {
+                "f": "Micronésienne",
+                "m": "Micronésien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Ireland",
+            "official": "Republic of Ireland",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Ireland",
+                    "common": "Ireland"
+                },
+                "gle": {
+                    "official": "Poblacht na hÉireann",
+                    "common": "Éire"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Irish",
+                "m": "Irish"
+            },
+            "fra": {
+                "f": "Irlandaise",
+                "m": "Irlandais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Curaçao",
+            "official": "Country of Curaçao",
+            "nativeName": {
+                "eng": {
+                    "official": "Country of Curaçao",
+                    "common": "Curaçao"
+                },
+                "nld": {
+                    "official": "Land Curaçao",
+                    "common": "Curaçao"
+                },
+                "pap": {
+                    "official": "Pais Kòrsou",
+                    "common": "Pais Kòrsou"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Curaçaoan",
+                "m": "Curaçaoan"
+            },
+            "fra": {
+                "f": "Curacienne",
+                "m": "Curacien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "French Guiana",
+            "official": "Guiana",
+            "nativeName": {
+                "fra": {
+                    "official": "Guyane",
+                    "common": "Guyane française"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Guianan",
+                "m": "Guianan"
+            },
+            "fra": {
+                "f": "Guyanaise",
+                "m": "Guyanais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Norway",
+            "official": "Kingdom of Norway",
+            "nativeName": {
+                "nno": {
+                    "official": "Kongeriket Noreg",
+                    "common": "Noreg"
+                },
+                "nob": {
+                    "official": "Kongeriket Norge",
+                    "common": "Norge"
+                },
+                "smi": {
+                    "official": "Norgga gonagasriika",
+                    "common": "Norgga"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Norwegian",
+                "m": "Norwegian"
+            },
+            "fra": {
+                "f": "Norvégienne",
+                "m": "Norvégien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Åland Islands",
+            "official": "Åland Islands",
+            "nativeName": {
+                "swe": {
+                    "official": "Landskapet Åland",
+                    "common": "Åland"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Ålandish",
+                "m": "Ålandish"
+            },
+            "fra": {
+                "f": "Ålandaise",
+                "m": "Ålandais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Central African Republic",
+            "official": "Central African Republic",
+            "nativeName": {
+                "fra": {
+                    "official": "République centrafricaine",
+                    "common": "République centrafricaine"
+                },
+                "sag": {
+                    "official": "Ködörösêse tî Bêafrîka",
+                    "common": "Bêafrîka"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Central African",
+                "m": "Central African"
+            },
+            "fra": {
+                "f": "Centrafricaine",
+                "m": "Centrafricain"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Burkina Faso",
+            "official": "Burkina Faso",
+            "nativeName": {
+                "fra": {
+                    "official": "République du Burkina",
+                    "common": "Burkina Faso"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Burkinabe",
+                "m": "Burkinabe"
+            },
+            "fra": {
+                "f": "Burkinabée",
+                "m": "Burkinabé"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Eritrea",
+            "official": "State of Eritrea",
+            "nativeName": {
+                "ara": {
+                    "official": "دولة إرتريا",
+                    "common": "إرتريا‎"
+                },
+                "eng": {
+                    "official": "State of Eritrea",
+                    "common": "Eritrea"
+                },
+                "tir": {
+                    "official": "ሃገረ ኤርትራ",
+                    "common": "ኤርትራ"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Eritrean",
+                "m": "Eritrean"
+            },
+            "fra": {
+                "f": "Érythréenne",
+                "m": "Érythréen"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Tanzania",
+            "official": "United Republic of Tanzania",
+            "nativeName": {
+                "eng": {
+                    "official": "United Republic of Tanzania",
+                    "common": "Tanzania"
+                },
+                "swa": {
+                    "official": "Jamhuri ya Muungano wa Tanzania",
+                    "common": "Tanzania"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Tanzanian",
+                "m": "Tanzanian"
+            },
+            "fra": {
+                "f": "Tanzanienne",
+                "m": "Tanzanien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "South Korea",
+            "official": "Republic of Korea",
+            "nativeName": {
+                "kor": {
+                    "official": "대한민국",
+                    "common": "한국"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "South Korean",
+                "m": "South Korean"
+            },
+            "fra": {
+                "f": "Sud-coréenne",
+                "m": "Sud-coréen"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Jordan",
+            "official": "Hashemite Kingdom of Jordan",
+            "nativeName": {
+                "ara": {
+                    "official": "المملكة الأردنية الهاشمية",
+                    "common": "الأردن"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Jordanian",
+                "m": "Jordanian"
+            },
+            "fra": {
+                "f": "Jordanienne",
+                "m": "Jordanien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Mauritania",
+            "official": "Islamic Republic of Mauritania",
+            "nativeName": {
+                "ara": {
+                    "official": "الجمهورية الإسلامية الموريتانية",
+                    "common": "موريتانيا"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Mauritanian",
+                "m": "Mauritanian"
+            },
+            "fra": {
+                "f": "Mauritanienne",
+                "m": "Mauritanien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Lithuania",
+            "official": "Republic of Lithuania",
+            "nativeName": {
+                "lit": {
+                    "official": "Lietuvos Respublikos",
+                    "common": "Lietuva"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Lithuanian",
+                "m": "Lithuanian"
+            },
+            "fra": {
+                "f": "Lituanienne",
+                "m": "Lituanien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "United States Minor Outlying Islands",
+            "official": "United States Minor Outlying Islands",
+            "nativeName": {
+                "eng": {
+                    "official": "United States Minor Outlying Islands",
+                    "common": "United States Minor Outlying Islands"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "American Islander",
+                "m": "American Islander"
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Slovakia",
+            "official": "Slovak Republic",
+            "nativeName": {
+                "slk": {
+                    "official": "Slovenská republika",
+                    "common": "Slovensko"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Slovak",
+                "m": "Slovak"
+            },
+            "fra": {
+                "f": "Slovaque",
+                "m": "Slovaque"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Angola",
+            "official": "Republic of Angola",
+            "nativeName": {
+                "por": {
+                    "official": "República de Angola",
+                    "common": "Angola"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Angolan",
+                "m": "Angolan"
+            },
+            "fra": {
+                "f": "Angolaise",
+                "m": "Angolais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Kazakhstan",
+            "official": "Republic of Kazakhstan",
+            "nativeName": {
+                "kaz": {
+                    "official": "Қазақстан Республикасы",
+                    "common": "Қазақстан"
+                },
+                "rus": {
+                    "official": "Республика Казахстан",
+                    "common": "Казахстан"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Kazakhstani",
+                "m": "Kazakhstani"
+            },
+            "fra": {
+                "f": "Kazakhstanaise",
+                "m": "Kazakhstanais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Moldova",
+            "official": "Republic of Moldova",
+            "nativeName": {
+                "ron": {
+                    "official": "Republica Moldova",
+                    "common": "Moldova"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Moldovan",
+                "m": "Moldovan"
+            },
+            "fra": {
+                "f": "Moldave",
+                "m": "Moldave"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Mali",
+            "official": "Republic of Mali",
+            "nativeName": {
+                "fra": {
+                    "official": "République du Mali",
+                    "common": "Mali"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Malian",
+                "m": "Malian"
+            },
+            "fra": {
+                "f": "Malienne",
+                "m": "Malien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Falkland Islands",
+            "official": "Falkland Islands",
+            "nativeName": {
+                "eng": {
+                    "official": "Falkland Islands",
+                    "common": "Falkland Islands"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Falkland Islander",
+                "m": "Falkland Islander"
+            },
+            "fra": {
+                "f": "Malouinne",
+                "m": "Malouin"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Armenia",
+            "official": "Republic of Armenia",
+            "nativeName": {
+                "hye": {
+                    "official": "Հայաստանի Հանրապետություն",
+                    "common": "Հայաստան"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Armenian",
+                "m": "Armenian"
+            },
+            "fra": {
+                "f": "Arménienne",
+                "m": "Arménien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Samoa",
+            "official": "Independent State of Samoa",
+            "nativeName": {
+                "eng": {
+                    "official": "Independent State of Samoa",
+                    "common": "Samoa"
+                },
+                "smo": {
+                    "official": "Malo Saʻoloto Tutoʻatasi o Sāmoa",
+                    "common": "Sāmoa"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Samoan",
+                "m": "Samoan"
+            },
+            "fra": {
+                "f": "Samoane",
+                "m": "Samoan"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Jersey",
+            "official": "Bailiwick of Jersey",
+            "nativeName": {
+                "eng": {
+                    "official": "Bailiwick of Jersey",
+                    "common": "Jersey"
+                },
+                "fra": {
+                    "official": "Bailliage de Jersey",
+                    "common": "Jersey"
+                },
+                "nrf": {
+                    "official": "Bailliage dé Jèrri",
+                    "common": "Jèrri"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Channel Islander",
+                "m": "Channel Islander"
+            },
+            "fra": {
+                "f": "Jersiaise",
+                "m": "Jersiais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Japan",
+            "official": "Japan",
+            "nativeName": {
+                "jpn": {
+                    "official": "日本",
+                    "common": "日本"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Japanese",
+                "m": "Japanese"
+            },
+            "fra": {
+                "f": "Japonaise",
+                "m": "Japonais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Bolivia",
+            "official": "Plurinational State of Bolivia",
+            "nativeName": {
+                "aym": {
+                    "official": "Wuliwya Suyu",
+                    "common": "Wuliwya"
+                },
+                "grn": {
+                    "official": "Tetã Volívia",
+                    "common": "Volívia"
+                },
+                "que": {
+                    "official": "Buliwya Mamallaqta",
+                    "common": "Buliwya"
+                },
+                "spa": {
+                    "official": "Estado Plurinacional de Bolivia",
+                    "common": "Bolivia"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Bolivian",
+                "m": "Bolivian"
+            },
+            "fra": {
+                "f": "Bolivienne",
+                "m": "Bolivien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Chile",
+            "official": "Republic of Chile",
+            "nativeName": {
+                "spa": {
+                    "official": "República de Chile",
+                    "common": "Chile"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Chilean",
+                "m": "Chilean"
+            },
+            "fra": {
+                "f": "Chilienne",
+                "m": "Chilien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "United States",
+            "official": "United States of America",
+            "nativeName": {
+                "eng": {
+                    "official": "United States of America",
+                    "common": "United States"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "American",
+                "m": "American"
+            },
+            "fra": {
+                "f": "Américaine",
+                "m": "Américain"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Saint Vincent and the Grenadines",
+            "official": "Saint Vincent and the Grenadines",
+            "nativeName": {
+                "eng": {
+                    "official": "Saint Vincent and the Grenadines",
+                    "common": "Saint Vincent and the Grenadines"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Saint Vincentian",
+                "m": "Saint Vincentian"
+            },
+            "fra": {
+                "f": "Vincentaise",
+                "m": "Vincentais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Bermuda",
+            "official": "Bermuda",
+            "nativeName": {
+                "eng": {
+                    "official": "Bermuda",
+                    "common": "Bermuda"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Bermudian",
+                "m": "Bermudian"
+            },
+            "fra": {
+                "f": "Bermudienne",
+                "m": "Bermudien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Seychelles",
+            "official": "Republic of Seychelles",
+            "nativeName": {
+                "crs": {
+                    "official": "Repiblik Sesel",
+                    "common": "Sesel"
+                },
+                "eng": {
+                    "official": "Republic of Seychelles",
+                    "common": "Seychelles"
+                },
+                "fra": {
+                    "official": "République des Seychelles",
+                    "common": "Seychelles"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Seychellois",
+                "m": "Seychellois"
+            },
+            "fra": {
+                "f": "Seychelloise",
+                "m": "Seychellois"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "British Indian Ocean Territory",
+            "official": "British Indian Ocean Territory",
+            "nativeName": {
+                "eng": {
+                    "official": "British Indian Ocean Territory",
+                    "common": "British Indian Ocean Territory"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Indian",
+                "m": "Indian"
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Guatemala",
+            "official": "Republic of Guatemala",
+            "nativeName": {
+                "spa": {
+                    "official": "República de Guatemala",
+                    "common": "Guatemala"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Guatemalan",
+                "m": "Guatemalan"
+            },
+            "fra": {
+                "f": "Guatémaltèque",
+                "m": "Guatémaltèque"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Ecuador",
+            "official": "Republic of Ecuador",
+            "nativeName": {
+                "spa": {
+                    "official": "República del Ecuador",
+                    "common": "Ecuador"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Ecuadorean",
+                "m": "Ecuadorean"
+            },
+            "fra": {
+                "f": "Équatorienne",
+                "m": "Équatorien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Martinique",
+            "official": "Martinique",
+            "nativeName": {
+                "fra": {
+                    "official": "Martinique",
+                    "common": "Martinique"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Martinican",
+                "m": "Martinican"
+            },
+            "fra": {
+                "f": "Martiniquaise",
+                "m": "Martiniquais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Tajikistan",
+            "official": "Republic of Tajikistan",
+            "nativeName": {
+                "rus": {
+                    "official": "Республика Таджикистан",
+                    "common": "Таджикистан"
+                },
+                "tgk": {
+                    "official": "Ҷумҳурии Тоҷикистон",
+                    "common": "Тоҷикистон"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Tadzhik",
+                "m": "Tadzhik"
+            },
+            "fra": {
+                "f": "Tadjike",
+                "m": "Tadjike"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Malta",
+            "official": "Republic of Malta",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Malta",
+                    "common": "Malta"
+                },
+                "mlt": {
+                    "official": "Repubblika ta ' Malta",
+                    "common": "Malta"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Maltese",
+                "m": "Maltese"
+            },
+            "fra": {
+                "f": "Maltaise",
+                "m": "Maltais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Gambia",
+            "official": "Republic of the Gambia",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of the Gambia",
+                    "common": "Gambia"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Gambian",
+                "m": "Gambian"
+            },
+            "fra": {
+                "f": "Gambienne",
+                "m": "Gambien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Nigeria",
+            "official": "Federal Republic of Nigeria",
+            "nativeName": {
+                "eng": {
+                    "official": "Federal Republic of Nigeria",
+                    "common": "Nigeria"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Nigerian",
+                "m": "Nigerian"
+            },
+            "fra": {
+                "f": "Nigériane",
+                "m": "Nigérian"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Bahamas",
+            "official": "Commonwealth of the Bahamas",
+            "nativeName": {
+                "eng": {
+                    "official": "Commonwealth of the Bahamas",
+                    "common": "Bahamas"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Bahamian",
+                "m": "Bahamian"
+            },
+            "fra": {
+                "f": "Bahamienne",
+                "m": "Bahamien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Kosovo",
+            "official": "Republic of Kosovo",
+            "nativeName": {
+                "sqi": {
+                    "official": "Republika e Kosovës",
+                    "common": "Kosova"
+                },
+                "srp": {
+                    "official": "Република Косово",
+                    "common": "Косово"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Kosovar",
+                "m": "Kosovar"
+            },
+            "fra": {
+                "f": "Kosovare",
+                "m": "Kosovar"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Kuwait",
+            "official": "State of Kuwait",
+            "nativeName": {
+                "ara": {
+                    "official": "دولة الكويت",
+                    "common": "الكويت"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Kuwaiti",
+                "m": "Kuwaiti"
+            },
+            "fra": {
+                "f": "Koweïtienne",
+                "m": "Koweïtien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Maldives",
+            "official": "Republic of the Maldives",
+            "nativeName": {
+                "div": {
+                    "official": "ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ",
+                    "common": "ދިވެހިރާއްޖޭގެ"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Maldivan",
+                "m": "Maldivan"
+            },
+            "fra": {
+                "f": "Maldivienne",
+                "m": "Maldivien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "South Sudan",
+            "official": "Republic of South Sudan",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of South Sudan",
+                    "common": "South Sudan"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "South Sudanese",
+                "m": "South Sudanese"
+            },
+            "fra": {
+                "f": "Sud-Soudanaise",
+                "m": "Sud-Soudanais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Iran",
+            "official": "Islamic Republic of Iran",
+            "nativeName": {
+                "fas": {
+                    "official": "جمهوری اسلامی ایران",
+                    "common": "ایران"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Iranian",
+                "m": "Iranian"
+            },
+            "fra": {
+                "f": "Iranienne",
+                "m": "Iranien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Albania",
+            "official": "Republic of Albania",
+            "nativeName": {
+                "sqi": {
+                    "official": "Republika e Shqipërisë",
+                    "common": "Shqipëria"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Albanian",
+                "m": "Albanian"
+            },
+            "fra": {
+                "f": "Albanaise",
+                "m": "Albanais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Brazil",
+            "official": "Federative Republic of Brazil",
+            "nativeName": {
+                "por": {
+                    "official": "República Federativa do Brasil",
+                    "common": "Brasil"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Brazilian",
+                "m": "Brazilian"
+            },
+            "fra": {
+                "f": "Brésilienne",
+                "m": "Brésilien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Serbia",
+            "official": "Republic of Serbia",
+            "nativeName": {
+                "srp": {
+                    "official": "Република Србија",
+                    "common": "Србија"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Serbian",
+                "m": "Serbian"
+            },
+            "fra": {
+                "f": "Serbe",
+                "m": "Serbe"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Belize",
+            "official": "Belize",
+            "nativeName": {
+                "bjz": {
+                    "official": "Belize",
+                    "common": "Belize"
+                },
+                "eng": {
+                    "official": "Belize",
+                    "common": "Belize"
+                },
+                "spa": {
+                    "official": "Belice",
+                    "common": "Belice"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Belizean",
+                "m": "Belizean"
+            },
+            "fra": {
+                "f": "Bélizienne",
+                "m": "Bélizien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Myanmar",
+            "official": "Republic of the Union of Myanmar",
+            "nativeName": {
+                "mya": {
+                    "official": "ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်",
+                    "common": "မြန်မာ"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Burmese",
+                "m": "Burmese"
+            },
+            "fra": {
+                "f": "Birmane",
+                "m": "Birman"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Bhutan",
+            "official": "Kingdom of Bhutan",
+            "nativeName": {
+                "dzo": {
+                    "official": "འབྲུག་རྒྱལ་ཁབ་",
+                    "common": "འབྲུག་ཡུལ་"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Bhutanese",
+                "m": "Bhutanese"
+            },
+            "fra": {
+                "f": "Bhoutanaise",
+                "m": "Bhoutanais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Venezuela",
+            "official": "Bolivarian Republic of Venezuela",
+            "nativeName": {
+                "spa": {
+                    "official": "República Bolivariana de Venezuela",
+                    "common": "Venezuela"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Venezuelan",
+                "m": "Venezuelan"
+            },
+            "fra": {
+                "f": "Vénézuélienne",
+                "m": "Vénézuélien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Liberia",
+            "official": "Republic of Liberia",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Liberia",
+                    "common": "Liberia"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Liberian",
+                "m": "Liberian"
+            },
+            "fra": {
+                "f": "Libérienne",
+                "m": "Libérien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Jamaica",
+            "official": "Jamaica",
+            "nativeName": {
+                "eng": {
+                    "official": "Jamaica",
+                    "common": "Jamaica"
+                },
+                "jam": {
+                    "official": "Jamaica",
+                    "common": "Jamaica"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Jamaican",
+                "m": "Jamaican"
+            },
+            "fra": {
+                "f": "Jamaïcaine",
+                "m": "Jamaïcain"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Poland",
+            "official": "Republic of Poland",
+            "nativeName": {
+                "pol": {
+                    "official": "Rzeczpospolita Polska",
+                    "common": "Polska"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Polish",
+                "m": "Polish"
+            },
+            "fra": {
+                "f": "Polonaise",
+                "m": "Polonais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Cayman Islands",
+            "official": "Cayman Islands",
+            "nativeName": {
+                "eng": {
+                    "official": "Cayman Islands",
+                    "common": "Cayman Islands"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Caymanian",
+                "m": "Caymanian"
+            },
+            "fra": {
+                "f": "Caïmanienne",
+                "m": "Caïmanien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Brunei",
+            "official": "Nation of Brunei, Abode of Peace",
+            "nativeName": {
+                "msa": {
+                    "official": "Nation of Brunei, Abode Damai",
+                    "common": "Negara Brunei Darussalam"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Bruneian",
+                "m": "Bruneian"
+            },
+            "fra": {
+                "f": "Brunéienne",
+                "m": "Brunéien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Comoros",
+            "official": "Union of the Comoros",
+            "nativeName": {
+                "ara": {
+                    "official": "الاتحاد القمري",
+                    "common": "القمر‎"
+                },
+                "fra": {
+                    "official": "Union des Comores",
+                    "common": "Comores"
+                },
+                "zdj": {
+                    "official": "Udzima wa Komori",
+                    "common": "Komori"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Comoran",
+                "m": "Comoran"
+            },
+            "fra": {
+                "f": "Comorienne",
+                "m": "Comorien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Guam",
+            "official": "Guam",
+            "nativeName": {
+                "cha": {
+                    "official": "Guåhån",
+                    "common": "Guåhån"
+                },
+                "eng": {
+                    "official": "Guam",
+                    "common": "Guam"
+                },
+                "spa": {
+                    "official": "Guam",
+                    "common": "Guam"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Guamanian",
+                "m": "Guamanian"
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Tonga",
+            "official": "Kingdom of Tonga",
+            "nativeName": {
+                "eng": {
+                    "official": "Kingdom of Tonga",
+                    "common": "Tonga"
+                },
+                "ton": {
+                    "official": "Kingdom of Tonga",
+                    "common": "Tonga"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Tongan",
+                "m": "Tongan"
+            },
+            "fra": {
+                "f": "Tonguienne",
+                "m": "Tonguien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Kiribati",
+            "official": "Independent and Sovereign Republic of Kiribati",
+            "nativeName": {
+                "eng": {
+                    "official": "Independent and Sovereign Republic of Kiribati",
+                    "common": "Kiribati"
+                },
+                "gil": {
+                    "official": "Ribaberiki Kiribati",
+                    "common": "Kiribati"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "I-Kiribati",
+                "m": "I-Kiribati"
+            },
+            "fra": {
+                "f": "Kiribatienne",
+                "m": "Kiribatien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Ghana",
+            "official": "Republic of Ghana",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Ghana",
+                    "common": "Ghana"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Ghanaian",
+                "m": "Ghanaian"
+            },
+            "fra": {
+                "f": "Ghanéenne",
+                "m": "Ghanéen"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Chad",
+            "official": "Republic of Chad",
+            "nativeName": {
+                "ara": {
+                    "official": "جمهورية تشاد",
+                    "common": "تشاد‎"
+                },
+                "fra": {
+                    "official": "République du Tchad",
+                    "common": "Tchad"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Chadian",
+                "m": "Chadian"
+            },
+            "fra": {
+                "f": "Tchadienne",
+                "m": "Tchadien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Zimbabwe",
+            "official": "Republic of Zimbabwe",
+            "nativeName": {
+                "bwg": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "eng": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "kck": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "khi": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "ndc": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "nde": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "nya": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "sna": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "sot": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "toi": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "tsn": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "tso": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "ven": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "xho": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "zib": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Zimbabwean",
+                "m": "Zimbabwean"
+            },
+            "fra": {
+                "f": "Zimbabwéenne",
+                "m": "Zimbabwéen"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Saint Martin",
+            "official": "Saint Martin",
+            "nativeName": {
+                "fra": {
+                    "official": "Saint-Martin",
+                    "common": "Saint-Martin"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Saint Martin Islander",
+                "m": "Saint Martin Islander"
+            },
+            "fra": {
+                "f": "Saint-Martinoise",
+                "m": "Saint-Martinois"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Mongolia",
+            "official": "Mongolia",
+            "nativeName": {
+                "mon": {
+                    "official": "Монгол улс",
+                    "common": "Монгол улс"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Mongolian",
+                "m": "Mongolian"
+            },
+            "fra": {
+                "f": "Mongole",
+                "m": "Mongol"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Portugal",
+            "official": "Portuguese Republic",
+            "nativeName": {
+                "por": {
+                    "official": "República português",
+                    "common": "Portugal"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Portuguese",
+                "m": "Portuguese"
+            },
+            "fra": {
+                "f": "Portugaise",
+                "m": "Portugais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "American Samoa",
+            "official": "American Samoa",
+            "nativeName": {
+                "eng": {
+                    "official": "American Samoa",
+                    "common": "American Samoa"
+                },
+                "smo": {
+                    "official": "Sāmoa Amelika",
+                    "common": "Sāmoa Amelika"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "American Samoan",
+                "m": "American Samoan"
+            },
+            "fra": {
+                "f": "Samoane",
+                "m": "Samoan"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Republic of the Congo",
+            "official": "Republic of the Congo",
+            "nativeName": {
+                "fra": {
+                    "official": "République du Congo",
+                    "common": "République du Congo"
+                },
+                "kon": {
+                    "official": "Repubilika ya Kongo",
+                    "common": "Repubilika ya Kongo"
+                },
+                "lin": {
+                    "official": "Republíki ya Kongó",
+                    "common": "Republíki ya Kongó"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Congolese",
+                "m": "Congolese"
+            },
+            "fra": {
+                "f": "Congolaise",
+                "m": "Congolais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Belgium",
+            "official": "Kingdom of Belgium",
+            "nativeName": {
+                "deu": {
+                    "official": "Königreich Belgien",
+                    "common": "Belgien"
+                },
+                "fra": {
+                    "official": "Royaume de Belgique",
+                    "common": "Belgique"
+                },
+                "nld": {
+                    "official": "Koninkrijk België",
+                    "common": "België"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Belgian",
+                "m": "Belgian"
+            },
+            "fra": {
+                "f": "Belge",
+                "m": "Belge"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Israel",
+            "official": "State of Israel",
+            "nativeName": {
+                "ara": {
+                    "official": "دولة إسرائيل",
+                    "common": "إسرائيل"
+                },
+                "heb": {
+                    "official": "מדינת ישראל",
+                    "common": "ישראל"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Israeli",
+                "m": "Israeli"
+            },
+            "fra": {
+                "f": "Israélienne",
+                "m": "Israélien"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "New Zealand",
+            "official": "New Zealand",
+            "nativeName": {
+                "eng": {
+                    "official": "New Zealand",
+                    "common": "New Zealand"
+                },
+                "mri": {
+                    "official": "Aotearoa",
+                    "common": "Aotearoa"
+                },
+                "nzs": {
+                    "official": "New Zealand",
+                    "common": "New Zealand"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "New Zealander",
+                "m": "New Zealander"
+            },
+            "fra": {
+                "f": "Neo-Zélandaise",
+                "m": "Neo-Zélandais"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Nicaragua",
+            "official": "Republic of Nicaragua",
+            "nativeName": {
+                "spa": {
+                    "official": "República de Nicaragua",
+                    "common": "Nicaragua"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Nicaraguan",
+                "m": "Nicaraguan"
+            },
+            "fra": {
+                "f": "Nicaraguayenne",
+                "m": "Nicaraguayen"
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Anguilla",
+            "official": "Anguilla",
+            "nativeName": {
+                "eng": {
+                    "official": "Anguilla",
+                    "common": "Anguilla"
+                }
+            }
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Anguillian",
+                "m": "Anguillian"
+            },
+            "fra": {
+                "f": "Anguillane",
+                "m": "Anguillan"
+            }
+        }
+    }
+]

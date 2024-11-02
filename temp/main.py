@@ -3,7 +3,7 @@ import os
 import requests
 from fastapi import FastAPI
 from fetch_fi_data import fetch_fi_data
-from request_fi_data import request_fi_data
+from temp.request_fi_data import request_fi_data
 
 from common import (
     AA_API_BASE_URL,
