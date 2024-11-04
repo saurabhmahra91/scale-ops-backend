@@ -1,21 +1,40 @@
+import os
+
 from fastapi import FastAPI, Request
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
-from app.routers.auth import router as auth_router
-from app.routers.profile import router as profile_router
-from app.routers.user import router as user_router
-from app.routers.fiu import router as fiu_router
-from app.auth.oauth2_route import router as oauth2_compliance_router
 from slowapi import Limiter
-from slowapi.util import get_remote_address
 from slowapi.errors import RateLimitExceeded
 from slowapi.middleware import SlowAPIMiddleware
+from slowapi.util import get_remote_address
+
+from app.auth.oauth2_route import router as oauth2_compliance_router
+from app.routers.auth import router as auth_router
+from app.routers.enums import router as enums_router
+from app.routers.fiu import router as fiu_router
+from app.routers.profile import router as profile_router
+from app.routers.user import router as user_router
+from app.routers.preferences import router as preferences_router
 
 app = FastAPI()
+
+if int(os.environ["DEBUG"]) == 1:
+    app.add_middleware(
+        CORSMiddleware,
+        allow_origins=["*"],
+        allow_credentials=True,
+        allow_methods=["*"],
+        allow_headers=["*"],
+        expose_headers=["*"],
+    )
 
 
 @app.exception_handler(RateLimitExceeded)
 async def rate_limit_handler(request: Request, exc: RateLimitExceeded):
-    return JSONResponse(status_code=429, content={"detail": "Too many requests, please try again later."})
+    return JSONResponse(
+        status_code=429,
+        content={"detail": "Too many requests, please try again later."},
+    )
 
 
 limiter = Limiter(key_func=get_remote_address)
@@ -28,6 +47,8 @@ app.include_router(auth_router, prefix="/auth", tags=["Auth"])
 app.include_router(profile_router, prefix="/profile", tags=["Profile"])
 app.include_router(user_router, prefix="/users", tags=["Users"])
 app.include_router(fiu_router, prefix="/fiu", tags=["FIU"])
+app.include_router(enums_router, prefix="/enums", tags=["Enums"])
+app.include_router(preferences_router, prefix="/preferences", tags=["Preferences"])
 
 if __name__ == "__main__":
     import uvicorn

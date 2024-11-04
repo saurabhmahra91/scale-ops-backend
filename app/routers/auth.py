@@ -1,5 +1,5 @@
 from fastapi import APIRouter, Depends, HTTPException, status
-from pydantic import BaseModel
+import os
 from app.services.auth import (
     get_user,
     create_user,
@@ -14,35 +14,27 @@ from fastapi.requests import Request
 from app.auth.injections import get_current_user
 
 from app.auth.token import TokenPydantic
+from app.serializers.auth import MobileNumber, OTPVerification, RefreshToken
 
+OTP_RPM = os.environ["OTP_REQUEST_PER_MINUTE_RATE_LIMIT"]
+
+def get_rate_limiter_arg():
+    return f"{OTP_RPM}/minute"
 
 router = APIRouter()
 limiter = Limiter(key_func=get_remote_address)
 
 
-class mobileNumber(BaseModel):
-    mobile: str
-
-
-class OTPVerification(BaseModel):
-    mobile: str
-    otp: str
-
-
-class RefreshToken(BaseModel):
-    refresh_token: str
-
-
 @router.post("/request-otp")
-@limiter.limit("2/minute")
-async def request_otp(request: Request, mobile_number: mobileNumber):
+@limiter.limit(get_rate_limiter_arg())
+async def request_otp(request: Request, mobile_number: MobileNumber):
     otp = generate_otp()
     print("Here is the generated OTP: ", otp)
     return {"message": f"OTP sent to {mobile_number.mobile}"}
 
 
 @router.post("/verify-otp", response_model=TokenPydantic)
-@limiter.limit("2/minute")
+@limiter.limit(get_rate_limiter_arg())
 async def verify_otp_and_login(request: Request, otp_verification: OTPVerification):
     if not verify_otp(otp_verification.mobile, otp_verification.otp):
         raise HTTPException(
@@ -55,7 +47,10 @@ async def verify_otp_and_login(request: Request, otp_verification: OTPVerificati
         user, created = create_user(otp_verification.mobile)
 
         if not created:
-            raise HTTPException(status_code=status.HTTP_500_INTERNAL_SERVER_ERROR, detail="Failed to create user")
+            raise HTTPException(
+                status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+                detail="Failed to create user",
+            )
 
     return create_tokens(user.mobile)
 

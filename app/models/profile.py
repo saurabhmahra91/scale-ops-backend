@@ -1,34 +1,63 @@
-from peewee import CharField, DateField, DecimalField, IntegerField, TextField, UUIDField
+from peewee import (
+    CharField,
+    DateField,
+    DecimalField,
+    IntegerField,
+    TextField,
+    UUIDField,
+    ForeignKeyField,
+)
+from playhouse.postgres_ext import ArrayField
 import uuid
 from app.core.database import db, initialize_database
-
+from playhouse.postgres_ext import JSONField
 from .base import BaseModel
-from .profile_enums import (
-    MaritalStatus,
-    Religions,
-    Genders,
-    EducationLevels,
-    FamilyType,
-    DietaryPreferences,
-    SmokingHabits,
-    DrinkingHabits,
-    Nationalities,
-)
+
+
+from .enumeration.gender import Gender
+from .enumeration.marital_status import MaritalStatus
+from .enumeration.religion import Religion
+from .enumeration.education_level import EducationLevel
+from .enumeration.family_type import FamilyType
+from .enumeration.dietary_preference import DietaryPreference
+from .enumeration.smoking_habit import SmokingHabit
+from .enumeration.drinking_habit import DrinkingHabit
+from .enumeration.nationality import Nationality
+from .enumeration.caste_community import CasteCommunity
+from .enumeration.language import Language
+from .enumeration.college import College
+from .user import User
 
 
 class Profile(BaseModel):
     id = UUIDField(primary_key=True, default=uuid.uuid4, index=True, null=False)
+    user = ForeignKeyField(User, backref="user", unique=True)
     name = CharField(null=False, max_length=32)
+    bio = CharField(max_length=8192, null=False)
     dob = DateField(null=True, index=True)
+    height = IntegerField(null=True, index=True)
     city = CharField(index=True, null=True)
+    image = CharField(null=True)
+    images = ArrayField(TextField, null=True)
     address = TextField(null=True)
-    gender = IntegerField(choices=[(tag.value, tag.name) for tag in Genders], index=True, null=True)
+
+    gender = ForeignKeyField(model=Gender, backref="profiles")
+    religion = ForeignKeyField(model=Religion, backref="profiles")
+    caste_community = ForeignKeyField(model=CasteCommunity, backref="profiles")
+    mother_tongue = ForeignKeyField(model=Language, backref="profiles")
+    education_level = ForeignKeyField(model=EducationLevel, backref="profiles")
+    college_attended = ForeignKeyField(model=College, backref="profiles")
+
     marital_status = IntegerField(choices=[(tag.value, tag.name) for tag in MaritalStatus], index=True, null=True)
     nationality = CharField(choices=[(tag.value, tag.name) for tag in Nationalities], index=True, null=True)
     religion = CharField(choices=[(tag.value, tag.name) for tag in Religions], index=True, null=True)
     caste_community = CharField(null=True)
     mother_tongue = CharField(null=True)
-    education_level = CharField(choices=[(tag.value, tag.name) for tag in EducationLevels], index=True, null=True)
+    education_level = CharField(
+        choices=[(tag.value, tag.name) for tag in EducationLevels],
+        index=True,
+        null=True,
+    )
     college_attended = CharField(null=True, index=True)
     job_title = CharField(null=True, index=True)
     company_name = CharField(null=True, index=True)
@@ -38,10 +67,15 @@ class Profile(BaseModel):
     mothers_occupation = CharField(null=True)
     siblings = IntegerField(null=True)
     family_values = CharField(null=True)
-    dietary_preference = CharField(choices=[(tag.value, tag.name) for tag in DietaryPreferences], index=True, null=True)
+    dietary_preference = CharField(
+        choices=[(tag.value, tag.name) for tag in DietaryPreferences],
+        index=True,
+        null=True,
+    )
     smoking_habit = CharField(choices=[(tag.value, tag.name) for tag in SmokingHabits], index=True, null=True)
     drinking_habit = CharField(choices=[(tag.value, tag.name) for tag in DrinkingHabits], index=True, null=True)
     hobbies_interests = TextField()
+    financial_info = JSONField(null=True)
 
     class Meta:
         database = db

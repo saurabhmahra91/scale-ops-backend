@@ -1,31 +1,12 @@
-from fastapi import APIRouter, HTTPException, Depends
 from typing import List
+
+from fastapi import APIRouter, Depends, HTTPException
+
+from app.auth.injections import get_current_user, is_admin
 from app.models.user import User
-from app.auth.injections import is_admin
-from app.auth.injections import get_current_user
-from pydantic import BaseModel
+from app.serializers.user import UserCreate, UserResponse, UserUpdate
 
 router = APIRouter()
-
-
-class UserBase(BaseModel):
-    mobile: str
-    is_verified: bool = False
-    is_active: bool = True
-    is_admin: bool = False
-    is_deleted: bool = False
-
-
-class UserCreate(UserBase):
-    pass
-
-
-class UserUpdate(UserBase):
-    pass
-
-
-class UserResponse(UserBase):
-    id: str
 
 
 @router.post("", response_model=UserResponse)
@@ -45,7 +26,9 @@ async def create_user(user: UserCreate, current_user: User = Depends(is_admin)) 
 
 
 @router.get("", response_model=List[UserResponse])
-async def read_users(current_user: User = Depends(get_current_user)) -> List[UserResponse]:
+async def read_users(
+    current_user: User = Depends(get_current_user),
+) -> List[UserResponse]:
     """
     Retrieve a list of all users.
 

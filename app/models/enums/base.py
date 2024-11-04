@@ -1,4 +1,4 @@
-from enum import IntEnum
+from enum import IntEnum, StrEnum
 
 
 class ValueExtractableIntEnum(IntEnum):
@@ -15,3 +15,17 @@ class ValueExtractableIntEnum(IntEnum):
 
     def to_dict(self):
         return {"id": self.value, "name": self.name.replace("_", " ").title()}
+
+
+class PeeWeeStrEnumBase(StrEnum):
+    @classmethod
+    def choices(cls):
+        return [(tag.name, tag.value) for tag in cls]
+
+    @classmethod
+    def create_enum(cls, name, values):
+        return StrEnum(name, {cls._to_enum_key(v): v for v in values})
+
+    @staticmethod
+    def _to_enum_key(value):
+        return value.upper().replace(' ', '_').replace('-', '_')

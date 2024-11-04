@@ -31,7 +31,7 @@ def create_user(mobile: str) -> User:
     Returns:
         User: The newly created User object.
     """
-    country_code = mobile.split(" ")[0].strip("+")
+    country_code = 91
     user = User(mobile=mobile, mobile_country_code=country_code)
     result = user.save(force_insert=True)
     return user, result
@@ -57,7 +57,15 @@ def verify_otp(mobile: str, otp: str) -> bool:
     Returns:
         bool: True if the OTP is valid, False otherwise.
     """
-    return otp in ["123456", "999999", "654321", "000000"]  # Static OTP verification
+    return otp in [
+        "1234",
+        "0",
+        "1",
+        "123456",
+        "999999",
+        "654321",
+        "000000",
+    ]  # Static OTP verification
 
 
 def create_tokens(mobile: str) -> dict:
@@ -72,7 +80,11 @@ def create_tokens(mobile: str) -> dict:
     """
     access_token = create_access_token(data={"sub": mobile})
     refresh_token = create_refresh_token(data={"sub": mobile})
-    return {"access_token": access_token, "refresh_token": refresh_token, "token_type": "bearer"}
+    return {
+        "access_token": access_token,
+        "refresh_token": refresh_token,
+        "token_type": "bearer",
+    }
 
 
 def refresh_access_token(refresh_token: str) -> dict:

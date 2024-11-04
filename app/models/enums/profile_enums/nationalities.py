@@ -1,22 +1,7 @@
-from .base import ValueExtractableIntEnum
+from ..base import ValueExtractableIntEnum
 
 
-class Nationalities(ValueExtractableIntEnum):
-    @classmethod
-    def _generate_next_value_(cls, start, count, last_values):
-        return cls.name.replace("_", " ")
-
-    @classmethod
-    def get_values(cls):
-        return [nationality.value for nationality in cls]
-
-    @classmethod
-    def from_string(cls, value):
-        try:
-            return cls[value.upper().replace(" ", "_").replace(",", "").replace("-", "_")]
-        except KeyError:
-            raise ValueError(f"'{value}' is not a valid {cls.__name__}")
-
+# class Nationalities(ValueExtractableIntEnum):...
 
 NATIONALITIES = [
     "South Georgia",
@@ -272,6 +257,12 @@ NATIONALITIES = [
 ]
 
 
-for nationality in NATIONALITIES:
-    enum_name = nationality.upper().replace(" ", "_").replace(",", "").replace("-", "_")
-    setattr(Nationalities, enum_name, nationality)
+# for i, nationality in enumerate(sorted(NATIONALITIES), start=1):
+#     enum_name = nationality.upper().replace(" ", "_").replace(",", "").replace("-", "_")
+#     setattr(Nationalities, enum_name, i)
+
+
+Nationalities = ValueExtractableIntEnum(
+    "Nationalities",
+    {k: v for k, v in zip(sorted(NATIONALITIES), range(1, len(NATIONALITIES) + 1))},
+)

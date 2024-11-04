@@ -1,5 +1,5 @@
 from enum import auto
-from .base import ValueExtractableIntEnum
+from ..base import ValueExtractableIntEnum
 
 
 class Religions(ValueExtractableIntEnum):
