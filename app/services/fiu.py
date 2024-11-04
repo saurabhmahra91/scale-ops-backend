@@ -7,8 +7,8 @@ AA_API_BASE_URL = "http://localhost:8080"
 AA_CALLBACK_URL = "http://localhost:5000/fiu/consent-notification"
 FIU_ENTITY_ID = "ScaleOps_FIU"
 AA_ENTITY_ID = "saafe-sandbox"
-FIU_REGISTRATION_APP_ID = os.environ["FIU_REGISTRATION_APP_ID"]
-FIU_REGISTRATION_APP_SECRET = os.environ["FIU_REGISTRATION_APP_SECRET"]
+FIU_REGISTRATION_APP_ID = os.environ["CLIENT_ID"]
+FIU_REGISTRATION_APP_SECRET = os.environ["CLIENT_SECRET"]
 
 CONSENT_DURATION_DAYS = 730  # 2 years
 FI_DATA_RANGE_PAST_DAYS = 365 * 3  # 3 years

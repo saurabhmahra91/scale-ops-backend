@@ -1,46 +1,50 @@
 from pydantic import BaseModel
-from typing import Optional
-from app.models.enums.profile_enums import (
-    MaritalStatus,
-    Religions,
-    EducationLevels,
-    Nationalities,
-)
-
+from typing import Optional, List
 
 class PreferenceBase(BaseModel):
     min_age: Optional[int] = None
     max_age: Optional[int] = None
     min_height_centimeters: Optional[float] = None
     max_height_centimeters: Optional[float] = None
-    preferred_marital_status: Optional[MaritalStatus] = None
-    preferred_religion: Optional[Religions] = None
-    preferred_communities: Optional[list[str]] = []
-    preferred_mother_tongues: Optional[list[str]] = []
-    preferred_education_levels: Optional[list[EducationLevels]] = []
-    preferred_occupations: Optional[list[str]] = []
-    preferred_countries: Optional[list[Nationalities]] = []
+    gender: Optional[str] = None
+    marital_statuses: Optional[List[str]] = None
+    religion: Optional[str] = None
+    education_levels: Optional[List[str]] = None
+    family_types: Optional[List[str]] = None
+    dietary_preferences: Optional[List[str]] = None
+    smoking_habits: Optional[List[str]] = None
+    drinking_habits: Optional[List[str]] = None
+    caste_communities: Optional[List[str]] = None
+    mother_tongue: Optional[str] = None
+    profession: Optional[str] = None
+    family_values: Optional[List[str]] = None
+    hobbies: Optional[List[str]] = None
+    nationality: Optional[str] = None
     willing_to_relocate: Optional[bool] = None
-
 
 class PreferenceCreate(PreferenceBase):
     min_age: int
     max_age: int
     min_height_centimeters: float
     max_height_centimeters: float
-    preferred_marital_status: MaritalStatus
-    preferred_religion: Religions
-    preferred_communities: list[str]
-    preferred_mother_tongues: list[str]
-    preferred_education_levels: list[EducationLevels]
-    preferred_occupations: list[str]
-    preferred_countries: list[Nationalities]
+    gender: str
+    marital_statuses: List[str]
+    religion: str
+    education_levels: List[str]
+    family_types: List[str]
+    dietary_preferences: List[str]
+    smoking_habits: List[str]
+    drinking_habits: List[str]
+    caste_communities: List[str]
+    mother_tongue: str
+    profession: str
+    family_values: List[str]
+    hobbies: List[str]
+    nationality: str
     willing_to_relocate: bool
-
 
 class PreferenceUpdate(PreferenceBase):
     pass
-
 
 class PreferenceResponse(PreferenceBase):
     class Config:

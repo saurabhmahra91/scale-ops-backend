@@ -1,9 +1,10 @@
 from app.core.database import db, initialize_database
 from peewee import Model, CharField
 from .base import insert_enum_values
+from unidecode import unidecode
 
 class Nationality(Model):
-    value = CharField(unique=True, index=True, primary_key=True, null=True)
+    id = CharField(unique=True, index=True, primary_key=True, null=True)
 
     class Meta:
         database = db
@@ -41,7 +42,7 @@ _values = [
     "North Macedonia",
     "China",
     "Yemen",
-    "Saint Barthélemy",
+    "Saint Barthelemy",
     "Guernsey",
     "Solomon Islands",
     "Svalbard and Jan Mayen",
@@ -66,7 +67,7 @@ _values = [
     "Tokelau",
     "Guinea-Bissau",
     "Azerbaijan",
-    "Réunion",
+    "Reunion",
     "Djibouti",
     "North Korea",
     "Mauritius",
@@ -262,5 +263,5 @@ _values = [
     "Nicaragua",
     "Anguilla",
 ]
-
+_values = [unidecode(value) for value in _values]
 insert_enum_values(Nationality, _values)

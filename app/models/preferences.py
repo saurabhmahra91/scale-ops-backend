@@ -1,20 +1,23 @@
-import json
 from peewee import (
     ForeignKeyField,
     IntegerField,
     FloatField,
     CharField,
     BooleanField,
-    TextField,
 )
 from app.core.database import db
 from app.models.user import User
 from .base import BaseModel
-
+from .profile import Profile
 from app.core.database import initialize_database
-from .enums.profile_enums import MaritalStatus, Religions
+
 from playhouse.postgres_ext import ArrayField
-from .enums.profile_enums.caste_communities import CasteCommunity
+from .enumeration.gender import Gender
+from .enumeration.religion import Religion
+from .enumeration.nationality import Nationality
+from .enumeration.language import Language
+from .enumeration.profession import Profession
+
 
 class StrEnumField(CharField):
     def __init__(self, enum_class, *args, **kwargs):
@@ -36,56 +39,35 @@ class Preferences(BaseModel):
     max_age = IntegerField(null=True, default=80)
     min_height_centimeters = FloatField(null=True, default=50)
     max_height_centimeters = FloatField(null=True, default=250)
-    preferred_marital_status = CharField(
-        choices=[(tag.value, tag.name) for tag in MaritalStatus],
-        null=True,
-        default=MaritalStatus.PREFER_NOT_TO_SAY,
-    )
-    preferred_religion = CharField(
-        choices=[(tag.value, tag.name) for tag in Religions],
-        null=True,
-        default=Religions.PREFER_NOT_TO_SAY,
-    )
-
-    preferred_communities = ArrayField(StrEnumField(CasteCommunity), default=[], null=True)
-    preferred_mother_tongues = ArrayField(CharField, default=[], null=True)
-    preferred_education_levels = ArrayField(CharField, default=[], null=True)
-    preferred_occupations = ArrayField(CharField, default=[], null=True)
-    preferred_countries = ArrayField(CharField, default=[], null=True)
-    willing_to_relocate = BooleanField(CharField, null=True, default=True)
+    gender = ForeignKeyField(Gender, null=True, default=None)
+    marital_statuses = ArrayField(CharField, null=True)
+    religion = ForeignKeyField(Religion, backref="preferences", null=True)
+    education_levels = ArrayField(CharField, null=True)
+    family_types = ArrayField(CharField, null=True)
+    dietary_preferences = ArrayField(CharField, null=True)
+    smoking_habits = ArrayField(CharField, null=True)
+    drinking_habits = ArrayField(CharField, null=True)
+    caste_communities = ArrayField(CharField, null=True)
+    mother_tongue = ForeignKeyField(Language, backref="preferences", null=True)
+    profession = ForeignKeyField(Profession, backref="preferences", null=True)
+    family_values = ArrayField(CharField, null=True)
+    hobbies = ArrayField(CharField, null=True)
+    nationality = ForeignKeyField(Nationality, backref="preferences", null=True)
+    willing_to_relocate = BooleanField(null=False, default=True)
 
     class Meta:
         database = db
 
-    def set_preferred_communities(self, communities):
-        self.preferred_communities = communities
+    def save(self, *args, **kwargs):
+        user_profile = Profile.get(user=self.user)
 
-    def get_preferred_communities(self):
-        return self.preferred_communities
+        if self.gender is None:
+            self.gender = user_profile.gender
 
-    def set_preferred_mother_tongues(self, mother_tongues):
-        self.preferred_mother_tongues = mother_tongues
+        if self.nationality is None:
+            self.nationality = user_profile.nationality
 
-    def get_preferred_mother_tongues(self):
-        return self.preferred_mother_tongues
-
-    def set_preferred_education_levels(self, education_levels):
-        self.preferred_education_levels = education_levels
-
-    def get_preferred_education_levels(self):
-        return self.preferred_education_levels
-
-    def set_preferred_occupations(self, occupations):
-        self.preferred_occupations = occupations
-
-    def get_preferred_occupations(self):
-        return self.preferred_occupations
-
-    def set_preferred_countries(self, countries):
-        self.preferred_countries = countries
-
-    def get_preferred_countries(self):
-        return self.preferred_countries
+        return super().save(*args, **kwargs)
 
 
 initialize_database([Preferences])

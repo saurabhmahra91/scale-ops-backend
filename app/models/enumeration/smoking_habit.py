@@ -4,7 +4,7 @@ from .base import insert_enum_values
 
 
 class SmokingHabit(Model):
-    value = CharField(unique=True, index=True, primary_key=True, null=True)
+    id = CharField(unique=True, index=True, primary_key=True, null=True)
 
     class Meta:
         database = db

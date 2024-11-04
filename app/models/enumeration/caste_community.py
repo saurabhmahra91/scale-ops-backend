@@ -1,12 +1,16 @@
 from app.core.database import db, initialize_database
 from peewee import Model, CharField
 from .base import insert_enum_values
+from unidecode import unidecode
 
 class CasteCommunity(Model):
-    value = CharField(unique=True, index=True, primary_key=True, null=True)
+    id = CharField(unique=True, index=True, primary_key=True, null=True)
 
     class Meta:
         database = db
+
+    def __str__(self):
+        return self.id
 
 
 initialize_database([CasteCommunity])
@@ -518,7 +522,7 @@ _OTHERS = [
     "OTHER",
 ]
 
-_AGG = [*_CASTES, *_COMMUNNITIES, *_OTHERS]
-
+_AGG = list(set([*_CASTES, *_COMMUNNITIES, *_OTHERS]))
+_AGG = [unidecode(s) for s in _AGG]
 
 insert_enum_values(CasteCommunity, _AGG)

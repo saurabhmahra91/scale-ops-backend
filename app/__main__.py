@@ -10,11 +10,11 @@ from slowapi.util import get_remote_address
 
 from app.auth.oauth2_route import router as oauth2_compliance_router
 from app.routers.auth import router as auth_router
-from app.routers.enums import router as enums_router
 from app.routers.fiu import router as fiu_router
 from app.routers.profile import router as profile_router
 from app.routers.user import router as user_router
 from app.routers.preferences import router as preferences_router
+from app.routers.enumeration.all import router as all_enums_router
 
 app = FastAPI()
 
@@ -47,7 +47,7 @@ app.include_router(auth_router, prefix="/auth", tags=["Auth"])
 app.include_router(profile_router, prefix="/profile", tags=["Profile"])
 app.include_router(user_router, prefix="/users", tags=["Users"])
 app.include_router(fiu_router, prefix="/fiu", tags=["FIU"])
-app.include_router(enums_router, prefix="/enums", tags=["Enums"])
+app.include_router(all_enums_router, prefix="/enums", tags=["Enums"])
 app.include_router(preferences_router, prefix="/preferences", tags=["Preferences"])
 
 if __name__ == "__main__":
