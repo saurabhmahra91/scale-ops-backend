@@ -9,7 +9,7 @@ class EngagementUserResponse(BaseModel):
     height: int
     marital_status: str
     nationality: str
-    city: Optional[str] 
+    city: Optional[str] = None
     religion: str
     caste_community: str
     mother_tongue: str
@@ -27,7 +27,7 @@ class EngagementUserResponse(BaseModel):
     drinking_habit: str
     hobbies: list[str]
     image: str
-    financial_info: Optional[dict] = None
+    financial_info: Optional[list[dict]] = None
 
 class MatchedUserResponse(BaseModel):
     id: UUID

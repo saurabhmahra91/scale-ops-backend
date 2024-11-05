@@ -6,7 +6,8 @@ from slowapi import Limiter
 from slowapi.errors import RateLimitExceeded
 from slowapi.middleware import SlowAPIMiddleware
 from slowapi.util import get_remote_address
-
+from fastapi.staticfiles import StaticFiles
+from pathlib import Path
 # Import routers
 from app.auth.oauth2_route import router as oauth2_compliance_router
 from app.routers.auth import router as auth_router
@@ -18,6 +19,7 @@ from app.routers.enumeration.all import router as all_enums_router
 from app.routers.engagement import router as engagement_router
 
 app = FastAPI()
+
 api = FastAPI()
 
 if os.environ.get("DEBUG", "0") == "1":
@@ -62,8 +64,11 @@ api.include_router(preferences_router, prefix="/preferences", tags=["Preferences
 api.include_router(engagement_router, prefix="/engagement", tags=["Engagement"])
 
 app.mount("/api", api)
+api.mount("/uploads", StaticFiles(directory=Path(__file__).parent.parent/'uploads'), name="static")
+
 
 if __name__ == "__main__":
     import uvicorn
 
     uvicorn.run(app, host="0.0.0.0", port=5000)
+
