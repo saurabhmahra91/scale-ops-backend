@@ -40,8 +40,8 @@ class Profile(BaseModel):
     dob = DateField(null=True, index=True)
     height = IntegerField(null=True, index=True)
     city = CharField(index=True, null=True)
-    image = CharField(null=True)
-    images = ArrayField(TextField, null=True)
+    image = CharField(null=False, default="uploads/default.jpg")
+    images = ArrayField(TextField, null=False, default=[])
     address = TextField(null=True)
 
     gender = ForeignKeyField(model=Gender, backref="profiles")

@@ -1,5 +1,7 @@
 import os
 from app.models.profile import Profile
+from datetime import date
+
 
 UPLOAD_DIRECTORY = "uploads/profile_images"
 
@@ -39,3 +41,14 @@ def get_profile_image_path(profile: Profile):
     Get the path of the profile image.
     """
     return profile.image if profile.image and os.path.exists(profile.image) else None
+
+
+def get_user_age(profile: Profile):
+    """
+    Calculate and return the age of the user based on their birth date.
+    """
+    if profile.dob:
+        today = date.today()
+        age = today.year - profile.dob.year - ((today.month, today.day) < (profile.dob.month, profile.dob.day))
+        return age
+    return None
