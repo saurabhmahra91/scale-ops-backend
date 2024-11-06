@@ -26,8 +26,8 @@ class EngagementUserResponse(BaseModel):
     smoking_habit: str
     drinking_habit: str
     hobbies: list[str]
-    image: str
-    financial_info: Optional[list[dict]] = None
+    image: str | None = None
+    financial_info: Optional[list[dict]] = []
 
 class MatchedUserResponse(BaseModel):
     id: UUID
